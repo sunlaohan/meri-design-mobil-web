@@ -1,0 +1,102 @@
+{
+  "verifiedAt": "2026-10-29T07:25:41.956Z",
+  "scenarios": [
+    {
+      "scenario": "Initial loader appears before the entry module downloads; incomplete page hidden",
+      "passed": true
+    },
+    {
+      "scenario": "Initial loader waits for the hero image and releases the usable page",
+      "passed": true
+    },
+    {
+      "scenario": "A slow image gets an illustration placeholder without blocking the whole page",
+      "passed": true
+    },
+    {
+      "scenario": "Page navigation remains covered while destination data is delayed",
+      "passed": true
+    },
+    {
+      "scenario": "Browser back restores the page without a stuck loader",
+      "passed": true
+    },
+    {
+      "scenario": "Video buffering uses a local illustration and disappears when data arrives",
+      "passed": true
+    },
+    {
+      "scenario": "Mobile layout, English text, and reduced-motion preference",
+      "passed": true
+    },
+    {
+      "scenario": "Failed entry module shows a working retry action instead of endless loading",
+      "passed": true
+    },
+    {
+      "scenario": "Retry after a script download failure really reloads and restores the page",
+      "passed": true
+    },
+    {
+      "scenario": "A failed image can be retried locally without reloading the page",
+      "passed": true
+    },
+    {
+      "scenario": "Long loading shows helpful text and retry; it still finishes when the content becomes ready",
+      "passed": true
+    },
+    {
+      "scenario": "The illustrated loader paints with every external asset held, including stylesheets and scripts",
+      "passed": true
+    }
+  ],
+  "consoleErrors": [],
+  "buildVersion": "d91f7faa0528f861f9dde8ae770c9df2fa40881deb5924f38cf963e096199356",
+  "allRoutes": {
+    "desktopWidth": 2210,
+    "mobileWidth": 375,
+    "pageChecks": 20,
+    "oldRuntimeCacheCompatible": true
+  },
+  "production": {
+    "verifiedAt": "2026-10-29T07:30:12.737Z",
+    "url": "https://www.meridesign.cn",
+    "initialScriptDelayMs": 1400,
+    "results": [
+      {
+        "viewport": {
+          "width": 1440,
+          "height": 900
+        },
+        "initialLoaderVisible": true,
+        "heroLoaded": true,
+        "loaderEnded": true,
+        "horizontalOverflow": false
+      },
+      {
+        "viewport": {
+          "width": 375,
+          "height": 812
+        },
+        "initialLoaderVisible": true,
+        "heroLoaded": true,
+        "loaderEnded": true,
+        "horizontalOverflow": false
+      }
+    ],
+    "consoleErrors": [],
+    "httpFailures": [],
+    "deployId": "6ae2f52c754e6fa0a915c1e4",
+    "buildVersion": "d91f7faa0528f861f9dde8ae770c9df2fa40881deb5924f38cf963e096199356",
+    "matchingDeployedFiles": 446
+  },
+  "appearanceUpdate": {
+    "verifiedAt": "2026-10-29T07:59:59.778Z",
+    "deployId": "6ae2fc2a0904735123422bf2",
+    "url": "https://www.meridesign.cn",
+    "groundStroke": "rgb(48, 60, 68)",
+    "outlineStroke": "rgb(48, 60, 68)",
+    "groundOpacity": "1",
+    "matchingFileDigests": 446
+  }
+}

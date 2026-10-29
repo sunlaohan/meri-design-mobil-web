@@ -1,0 +1,35 @@
+{
+  "verifiedAt": "2026-10-29T06:54:11.247Z",
+  "siteId": "a4aee7d2-600d-4a08-b1b5-b01975c00265",
+  "siteName": "meri-design-mobil",
+  "team": "minze-project",
+  "setting": "built_with_badge_enabled",
+  "before": true,
+  "after": false,
+  "publishedDeployUnchanged": true,
+  "customDomainUnchanged": true,
+  "visibilityUnchanged": true,
+  "injectionBefore": true,
+  "publicPages": [
+    {
+      "url": "https://www.meridesign.cn/",
+      "pagePresent": true,
+      "badgeScriptPresent": false
+    },
+    {
+      "url": "https://www.meridesign.cn/home-en/",
+      "pagePresent": true,
+      "badgeScriptPresent": false
+    },
+    {
+      "url": "https://meri-design-mobil.netlify.app/",
+      "pagePresent": true,
+      "badgeScriptPresent": false
+    },
+    {
+      "url": "https://meri-design-mobil.netlify.app/home-en/",
+      "pagePresent": true,
+      "badgeScriptPresent": false
+    }
+  ]
+}

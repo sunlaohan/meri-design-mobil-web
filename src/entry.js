@@ -2,8 +2,10 @@ import { SitesRuntime, LocalReactDOMClient } from '/_runtimes/sites-runtime.e19e
 import { enhancePage } from '/local/custom.js';
 
 const BUNDLE = '57601274-0046-46ba-bd25-2596db6a99b5';
+// Filled by the build so cached Figma resources cannot shadow local updates.
+const BUILD_VERSION = '__MERI_BUILD_VERSION__';
 const container = document.getElementById('container');
-const assets = await fetch('/local/asset-map.json').then(response => response.json());
+const assets = await fetch(`/local/asset-map.json?v=${BUILD_VERSION}`).then(response => response.json());
 let cleanup = () => {};
 
 function updatePage() {
@@ -14,6 +16,7 @@ function updatePage() {
   cleanup = enhancePage({ container, route }) || (() => {});
   document.documentElement.dataset.siteReady = 'true';
   document.dispatchEvent(new CustomEvent('meri:page-ready', { detail: { route } }));
+  window.MeriLoading?.rendered(container, route);
 }
 
 const runtime = new SitesRuntime({
@@ -33,9 +36,14 @@ const runtime = new SitesRuntime({
   renderOptions: { metronomeEnabled: true, transform3dEnabled: false },
   async getPage(route) {
     const path = route === '/' ? '/_index' : route.replace(/\/$/, '');
-    const response = await fetch(`/_json/${BUNDLE}${path}.json`);
-    if (!response.ok) throw new Error(`Cannot load local page: ${route} (${response.status})`);
-    return { resource: await response.json(), cmsResource: null };
+    try {
+      const response = await fetch(`/_json/${BUNDLE}${path}.json?v=${BUILD_VERSION}`);
+      if (!response.ok) throw new Error(`Cannot load local page: ${route} (${response.status})`);
+      return { resource: await response.json(), cmsResource: null };
+    } catch (error) {
+      window.MeriLoading?.fail(route);
+      throw error;
+    }
   },
   getAssetURL(asset, { width, height } = {}) {
     const base = `/_assets/v11/${asset}`;
@@ -55,8 +63,18 @@ const runtime = new SitesRuntime({
     return assets[url] || url;
   },
   onPageRendered: updatePage,
-  onReactError(error) { console.error('[Meri Design]', error); },
+  onReactError(error) {
+    console.error('[Meri Design]', error);
+    window.MeriLoading?.fail();
+  },
 });
+
+// Start only real page changes. Hover/mousedown prefetches stay unobtrusive.
+const setLocation = runtime.setLocation.bind(runtime);
+runtime.setLocation = (location, ...options) => {
+  if (location.url) window.MeriLoading?.begin(location.url);
+  return setLocation(location, ...options);
+};
 
 // A modified design scene is freshly rendered. This makes layout, animation,
 // rich text and component edits work without maintaining old SSR by hand.

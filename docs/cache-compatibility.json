@@ -1,0 +1,252 @@
+{
+  "verifiedAt": "2026-10-29T07:25:52.259Z",
+  "regression": "An immutable cached Figma runtime without LocalReactDOMClient must not prevent the new site from rendering",
+  "legacyRuntimeCached": true,
+  "legacyRuntimeHasLocalBridge": false,
+  "legacyRuntimeNetworkLoads": 1,
+  "pages": [
+    {
+      "route": "/",
+      "viewport": {
+        "width": 2210,
+        "height": 1145
+      },
+      "ready": "true",
+      "horizontalOverflow": false,
+      "visibleBrokenImages": 0,
+      "sidebarItems": 0
+    },
+    {
+      "route": "/home-en",
+      "viewport": {
+        "width": 2210,
+        "height": 1145
+      },
+      "ready": "true",
+      "horizontalOverflow": false,
+      "visibleBrokenImages": 0,
+      "sidebarItems": 0
+    },
+    {
+      "route": "/user-guide",
+      "viewport": {
+        "width": 2210,
+        "height": 1145
+      },
+      "ready": "true",
+      "horizontalOverflow": false,
+      "visibleBrokenImages": 0,
+      "sidebarItems": 4
+    },
+    {
+      "route": "/user-guide-en",
+      "viewport": {
+        "width": 2210,
+        "height": 1145
+      },
+      "ready": "true",
+      "horizontalOverflow": false,
+      "visibleBrokenImages": 0,
+      "sidebarItems": 4
+    },
+    {
+      "route": "/usage-specification",
+      "viewport": {
+        "width": 2210,
+        "height": 1145
+      },
+      "ready": "true",
+      "horizontalOverflow": false,
+      "visibleBrokenImages": 0,
+      "sidebarItems": 6
+    },
+    {
+      "route": "/usage-specification-en",
+      "viewport": {
+        "width": 2210,
+        "height": 1145
+      },
+      "ready": "true",
+      "horizontalOverflow": false,
+      "visibleBrokenImages": 0,
+      "sidebarItems": 6
+    },
+    {
+      "route": "/consistency",
+      "viewport": {
+        "width": 2210,
+        "height": 1145
+      },
+      "ready": "true",
+      "horizontalOverflow": false,
+      "visibleBrokenImages": 0,
+      "sidebarItems": 18
+    },
+    {
+      "route": "/consistency-en",
+      "viewport": {
+        "width": 2210,
+        "height": 1145
+      },
+      "ready": "true",
+      "horizontalOverflow": false,
+      "visibleBrokenImages": 0,
+      "sidebarItems": 18
+    },
+    {
+      "route": "/update-log",
+      "viewport": {
+        "width": 2210,
+        "height": 1145
+      },
+      "ready": "true",
+      "horizontalOverflow": false,
+      "visibleBrokenImages": 0,
+      "sidebarItems": 25
+    },
+    {
+      "route": "/update-log-en",
+      "viewport": {
+        "width": 2210,
+        "height": 1145
+      },
+      "ready": "true",
+      "horizontalOverflow": false,
+      "visibleBrokenImages": 0,
+      "sidebarItems": 25
+    },
+    {
+      "route": "/",
+      "viewport": {
+        "width": 375,
+        "height": 812
+      },
+      "ready": "true",
+      "horizontalOverflow": false,
+      "visibleBrokenImages": 0,
+      "sidebarItems": 0
+    },
+    {
+      "route": "/home-en",
+      "viewport": {
+        "width": 375,
+        "height": 812
+      },
+      "ready": "true",
+      "horizontalOverflow": false,
+      "visibleBrokenImages": 0,
+      "sidebarItems": 0
+    },
+    {
+      "route": "/user-guide",
+      "viewport": {
+        "width": 375,
+        "height": 812
+      },
+      "ready": "true",
+      "horizontalOverflow": false,
+      "visibleBrokenImages": 0,
+      "sidebarItems": 0
+    },
+    {
+      "route": "/user-guide-en",
+      "viewport": {
+        "width": 375,
+        "height": 812
+      },
+      "ready": "true",
+      "horizontalOverflow": false,
+      "visibleBrokenImages": 0,
+      "sidebarItems": 0
+    },
+    {
+      "route": "/usage-specification",
+      "viewport": {
+        "width": 375,
+        "height": 812
+      },
+      "ready": "true",
+      "horizontalOverflow": false,
+      "visibleBrokenImages": 0,
+      "sidebarItems": 0
+    },
+    {
+      "route": "/usage-specification-en",
+      "viewport": {
+        "width": 375,
+        "height": 812
+      },
+      "ready": "true",
+      "horizontalOverflow": false,
+      "visibleBrokenImages": 0,
+      "sidebarItems": 0
+    },
+    {
+      "route": "/consistency",
+      "viewport": {
+        "width": 375,
+        "height": 812
+      },
+      "ready": "true",
+      "horizontalOverflow": false,
+      "visibleBrokenImages": 0,
+      "sidebarItems": 0
+    },
+    {
+      "route": "/consistency-en",
+      "viewport": {
+        "width": 375,
+        "height": 812
+      },
+      "ready": "true",
+      "horizontalOverflow": false,
+      "visibleBrokenImages": 0,
+      "sidebarItems": 0
+    },
+    {
+      "route": "/update-log",
+      "viewport": {
+        "width": 375,
+        "height": 812
+      },
+      "ready": "true",
+      "horizontalOverflow": false,
+      "visibleBrokenImages": 0,
+      "sidebarItems": 0
+    },
+    {
+      "route": "/update-log-en",
+      "viewport": {
+        "width": 375,
+        "height": 812
+      },
+      "ready": "true",
+      "horizontalOverflow": false,
+      "visibleBrokenImages": 0,
+      "sidebarItems": 0
+    }
+  ],
+  "consoleErrors": [],
+  "httpFailures": [],
+  "buildVersion": "d91f7faa0528f861f9dde8ae770c9df2fa40881deb5924f38cf963e096199356",
+  "rootCause": "The original Figma runtime was cached under the same immutable URL as the runtime with the local React bridge. The old cached module did not export LocalReactDOMClient, so the entry module failed and SSR entrance-animation elements stayed hidden.",
+  "reproducedError": "The requested module does not provide an export named 'LocalReactDOMClient'",
+  "fix": "Content-derived version parameters on HTML entry, runtime and behavior imports, styles, asset map, and page data.",
+  "production": {
+    "deployId": "6ae2f52c754e6fa0a915c1e4",
+    "primaryUrl": "https://www.meridesign.cn",
+    "verifiedAt": "2026-10-29T07:30:11.467Z",
+    "versionedPages": 10,
+    "matchingFileDigests": 446
+  },
+  "initialCacheFixProductionVerification": {
+    "deployId": "6ae2eb5723895763ad32264b",
+    "primaryUrl": "https://www.meridesign.cn",
+    "verifiedAt": "2026-10-29T06:47:01.471Z",
+    "versionedPages": 10,
+    "matchingFileDigests": 446,
+    "existingChromeVerified": true,
+    "existingChromeVerification": "The Chrome window that previously showed missing headings and images now renders the homepage correctly after reloading the deployed site without clearing browser data.",
+    "existingChromeVerifiedAt": "2026-10-29T06:49:06.389568+00:00"
+  }
+}

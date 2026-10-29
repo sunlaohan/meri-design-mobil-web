@@ -1,25 +1,211 @@
 {
-  "verifiedAt": "2026-10-29T03:33:13.664Z",
+  "verifiedAt": "2026-10-29T05:39:15.987Z",
   "site": {
-    "siteId": "3fd555b9-1178-4f2f-a33b-457b3b2c878b",
+    "id": "a4aee7d2-600d-4a08-b1b5-b01975c00265",
     "name": "meri-design-mobil",
-    "team": "916554941",
+    "team": "minze-project",
     "url": "https://meri-design-mobil.netlify.app",
-    "adminUrl": "https://app.netlify.com/projects/meri-design-mobil",
-    "createdAt": "2026-10-29T03:26:39.378Z"
+    "adminUrl": "https://app.netlify.com/projects/meri-design-mobil"
   },
   "deploy": {
-    "id": "6ae2bd27ea0cb316130483a7",
+    "id": "6ae2fc2a0904735123422bf2",
     "state": "ready",
-    "deployUrl": "https://6ae2bd27ea0cb316130483a7--meri-design-mobil.netlify.app"
+    "deployUrl": "https://6ae2fc2a0904735123422bf2--meri-design-mobil.netlify.app"
   },
-  "buildCheck": "npm run check passed: 10 routes, 420 resource hashes, 1810 text nodes, 464 interactions, 450 behaviors, 4 video references",
+  "buildCheck": "npm run check: 10 routes, 420 resource hashes, 1810 text nodes, 464 interactions, 450 behaviors, 4 video references",
   "deployedFiles": 446,
   "matchingFileDigests": 446,
-  "fileMetadataPaths": "Netlify API normalizes file paths to lowercase; hashes verified with matching normalized paths.",
+  "pages": [
+    {
+      "route": "/",
+      "status": 200,
+      "finalUrl": "https://meri-design-mobil.netlify.app/"
+    },
+    {
+      "route": "/home-en",
+      "status": 200,
+      "finalUrl": "https://meri-design-mobil.netlify.app/home-en/"
+    },
+    {
+      "route": "/user-guide",
+      "status": 200,
+      "finalUrl": "https://meri-design-mobil.netlify.app/user-guide/"
+    },
+    {
+      "route": "/user-guide-en",
+      "status": 200,
+      "finalUrl": "https://meri-design-mobil.netlify.app/user-guide-en/"
+    },
+    {
+      "route": "/usage-specification",
+      "status": 200,
+      "finalUrl": "https://meri-design-mobil.netlify.app/usage-specification/"
+    },
+    {
+      "route": "/usage-specification-en",
+      "status": 200,
+      "finalUrl": "https://meri-design-mobil.netlify.app/usage-specification-en/"
+    },
+    {
+      "route": "/consistency",
+      "status": 200,
+      "finalUrl": "https://meri-design-mobil.netlify.app/consistency/"
+    },
+    {
+      "route": "/consistency-en",
+      "status": 200,
+      "finalUrl": "https://meri-design-mobil.netlify.app/consistency-en/"
+    },
+    {
+      "route": "/update-log",
+      "status": 200,
+      "finalUrl": "https://meri-design-mobil.netlify.app/update-log/"
+    },
+    {
+      "route": "/update-log-en",
+      "status": 200,
+      "finalUrl": "https://meri-design-mobil.netlify.app/update-log-en/"
+    }
+  ],
+  "scenes": [
+    {
+      "path": "/_json/57601274-0046-46ba-bd25-2596db6a99b5/_index.json",
+      "status": 200
+    },
+    {
+      "path": "/_json/57601274-0046-46ba-bd25-2596db6a99b5/consistency-en.json",
+      "status": 200
+    },
+    {
+      "path": "/_json/57601274-0046-46ba-bd25-2596db6a99b5/consistency.json",
+      "status": 200
+    },
+    {
+      "path": "/_json/57601274-0046-46ba-bd25-2596db6a99b5/home-en.json",
+      "status": 200
+    },
+    {
+      "path": "/_json/57601274-0046-46ba-bd25-2596db6a99b5/update-log-en.json",
+      "status": 200
+    },
+    {
+      "path": "/_json/57601274-0046-46ba-bd25-2596db6a99b5/update-log.json",
+      "status": 200
+    },
+    {
+      "path": "/_json/57601274-0046-46ba-bd25-2596db6a99b5/usage-specification-en.json",
+      "status": 200
+    },
+    {
+      "path": "/_json/57601274-0046-46ba-bd25-2596db6a99b5/usage-specification.json",
+      "status": 200
+    },
+    {
+      "path": "/_json/57601274-0046-46ba-bd25-2596db6a99b5/user-guide-en.json",
+      "status": 200
+    },
+    {
+      "path": "/_json/57601274-0046-46ba-bd25-2596db6a99b5/user-guide.json",
+      "status": 200
+    }
+  ],
+  "resources": [
+    {
+      "path": "/local/entry.js",
+      "status": 200,
+      "bytes": 3433,
+      "shaMatches": true
+    },
+    {
+      "path": "/local/custom.js",
+      "status": 200,
+      "bytes": 9034,
+      "shaMatches": true
+    },
+    {
+      "path": "/local/custom.css",
+      "status": 200,
+      "bytes": 3196,
+      "shaMatches": true
+    },
+    {
+      "path": "/local/asset-map.json",
+      "status": 200,
+      "bytes": 53425,
+      "shaMatches": true
+    },
+    {
+      "path": "/_assets/v11/05e4c3d032f209b58019e345b5494866c1c29871.png",
+      "status": 200,
+      "bytes": 150074,
+      "shaMatches": true
+    }
+  ],
+  "videos": [
+    {
+      "path": "/_videos/v1/4beffa88c72ec27b3da31a86653ce974b571359a.mp4",
+      "status": 206,
+      "contentRange": "bytes 0-1023/2740918",
+      "bytes": 1024
+    },
+    {
+      "path": "/_videos/v1/7f5e8ef185ed6db4b14c3b5e3d7a3512c3035bdf.mp4",
+      "status": 206,
+      "contentRange": "bytes 0-1023/4529966",
+      "bytes": 1024
+    }
+  ],
+  "unknownRoute": 404,
+  "migration": {
+    "sourceTeam": "916554941",
+    "destinationTeam": "minze-project",
+    "sourceSiteId": "3fd555b9-1178-4f2f-a33b-457b3b2c878b",
+    "destinationSiteId": "a4aee7d2-600d-4a08-b1b5-b01975c00265",
+    "sourceTemporaryProjectRemoved": true,
+    "sourceRemovalConfirmedStatus": 404,
+    "completedAt": "2026-10-29T05:40:12.802Z"
+  },
   "access": {
-    "anonymousStatus": 401,
-    "reason": "Inherited team default private project visibility",
-    "publicVerification": "Waiting for owner to select Make public in Netlify dashboard"
+    "public": true,
+    "anonymousStatus": 200,
+    "dashboardLabel": "Public"
+  },
+  "screenshot": "screenshots/netlify-public-deployment.png",
+  "finalVerification": {
+    "checkedAt": "2026-10-29T05:41:20.802Z",
+    "team": "minze-project",
+    "siteId": "a4aee7d2-600d-4a08-b1b5-b01975c00265",
+    "publicAccess": true,
+    "anonymousStatus": 200,
+    "publishedDeployId": "6ae2db943a2c80d43103aea1"
+  },
+  "customDomain": {
+    "primaryUrl": "https://www.meridesign.cn",
+    "apexUrl": "https://meridesign.cn",
+    "verifiedAt": "2026-10-29T06:26:49.628Z",
+    "https": "issued",
+    "verifiedPages": 10,
+    "verificationRecord": "domain-configuration.json"
+  },
+  "latestVerification": {
+    "verifiedAt": "2026-10-29T07:30:11.467Z",
+    "primaryUrl": "https://www.meridesign.cn",
+    "deployId": "6ae2f52c754e6fa0a915c1e4",
+    "buildVersion": "d91f7faa0528f861f9dde8ae770c9df2fa40881deb5924f38cf963e096199356",
+    "matchingFileDigests": 446,
+    "versionedHttpsPages": 10,
+    "matchingPublicResources": 3,
+    "oldCacheRegressionPages": 20,
+    "loadingScenarios": 12,
+    "loadingRecord": "loading-checks.json"
+  },
+  "loadingLineUpdate": {
+    "verifiedAt": "2026-10-29T07:59:59.778Z",
+    "deployId": "6ae2fc2a0904735123422bf2",
+    "url": "https://www.meridesign.cn",
+    "groundStroke": "rgb(48, 60, 68)",
+    "outlineStroke": "rgb(48, 60, 68)",
+    "groundOpacity": "1",
+    "matchingFileDigests": 446
   }
 }

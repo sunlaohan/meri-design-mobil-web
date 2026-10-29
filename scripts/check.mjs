@@ -4,7 +4,7 @@ import { createHash } from 'node:crypto';
 import path from 'node:path';
 import { build, root } from './build.mjs';
 
-const { routes, assets } = await build();
+const { routes, assets, buildVersion } = await build();
 const output = path.join(root, 'dist');
 const bundle = '57601274-0046-46ba-bd25-2596db6a99b5';
 const resourcePaths = new Set(assets.map(item => item.url));
@@ -22,7 +22,12 @@ for (const { route, slug, rootId } of routes) {
   const scene = JSON.parse(await readFile(path.join(output, '_json', bundle, `${route.slice(1) || '_index'}.json`)));
   assert.ok(scene.nodeById[rootId], `Missing page root: ${route}`);
   const html = await readFile(path.join(output, route.slice(1), 'index.html'), 'utf8');
-  assert.ok(html.includes('src="/local/entry.js"'), `Missing local entry: ${route}`);
+  assert.ok(html.includes(`src="/local/entry.js?v=${buildVersion}"`), `Missing versioned local entry: ${route}`);
+  assert.ok(html.includes(`id="meri-custom-css" data-version="${buildVersion}"`), `Missing versioned inline styles: ${route}`);
+  assert.ok(!html.includes('rel="stylesheet"'), `A stylesheet can block the initial loader: ${route}`);
+  assert.ok(html.indexOf('id="meri-page-loader"') < html.indexOf('id="container"'), `Loader must precede the page: ${route}`);
+  assert.ok(html.includes('id="meri-loading-css"') && html.includes('window.MeriLoading ='), `Missing initial loading shell: ${route}`);
+  assert.ok(!html.includes('__MERI_'), `Unresolved loading/build placeholder: ${route}`);
   assert.ok(!html.includes('reportingDomain: "https://www.figma.com"'), `Remote reporting: ${route}`);
   assert.ok(!html.includes('new SitesRuntime('), `Old inline runtime: ${route}`);
   for (const value of Object.values(scene.assets)) {
@@ -52,4 +57,7 @@ const runtime = await readFile(path.join(output, '_runtimes/sites-runtime.e19e2a
 const original = await readFile(path.join(root, 'public/_runtimes/sites-runtime.e19e2ab0117c1ea7fc8baab6cfdfb701ffa09c9a61fb54563c549cb84ba12c12.js'), 'utf8');
 assert.ok(runtime.startsWith(original), 'The vendor rendering engine has been modified');
 assert.ok(runtime.endsWith('export { pO as LocalReactDOMClient };\n'), 'Missing local rendering bridge');
+const entry = await readFile(path.join(output, 'local/entry.js'), 'utf8');
+assert.ok(!entry.includes('__MERI_BUILD_VERSION__'), 'Unresolved build version');
+assert.ok(entry.includes(`sites-runtime.e19e2ab0117c1ea7fc8baab6cfdfb701ffa09c9a61fb54563c549cb84ba12c12.js?v=${buildVersion}`), 'Runtime can reuse the old Figma cache');
 console.log(`Verified ${routes.length} routes, ${assets.length} resource hashes, ${textNodes} text nodes, ${interactions} interactions, ${behaviors} behaviors and ${videos} video references.`);

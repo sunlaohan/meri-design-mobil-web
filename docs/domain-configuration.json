@@ -1,0 +1,226 @@
+{
+  "buildVersion": "d91f7faa0528f861f9dde8ae770c9df2fa40881deb5924f38cf963e096199356",
+  "publishedDeployId": "6ae2f52c754e6fa0a915c1e4",
+  "matchingDeployedFiles": 446,
+  "verifiedAt": "2026-10-29T07:30:11.467Z",
+  "siteId": "a4aee7d2-600d-4a08-b1b5-b01975c00265",
+  "team": "minze-project",
+  "primaryUrl": "https://www.meridesign.cn",
+  "apexRedirect": "https://meridesign.cn",
+  "dnsProvider": "Aliyun DNS",
+  "records": [
+    {
+      "host": "@",
+      "type": "A",
+      "value": "75.2.60.5",
+      "ttl": 600
+    },
+    {
+      "host": "www",
+      "type": "CNAME",
+      "value": "meri-design-mobil.netlify.app",
+      "ttl": 600
+    }
+  ],
+  "removedRecords": [
+    "_figma_sites_verify_www TXT"
+  ],
+  "dnsVerification": "successful",
+  "publicDns": [
+    {
+      "resolver": "Google Public DNS",
+      "name": "meridesign.cn",
+      "type": "A",
+      "status": 0,
+      "answers": [
+        {
+          "name": "meridesign.cn.",
+          "type": 1,
+          "TTL": 600,
+          "data": "75.2.60.5"
+        }
+      ]
+    },
+    {
+      "resolver": "Google Public DNS",
+      "name": "www.meridesign.cn",
+      "type": "A",
+      "status": 0,
+      "answers": [
+        {
+          "name": "www.meridesign.cn.",
+          "type": 5,
+          "TTL": 600,
+          "data": "meri-design-mobil.netlify.app."
+        },
+        {
+          "name": "meri-design-mobil.netlify.app.",
+          "type": 1,
+          "TTL": 120,
+          "data": "52.74.6.109"
+        },
+        {
+          "name": "meri-design-mobil.netlify.app.",
+          "type": 1,
+          "TTL": 120,
+          "data": "13.215.239.219"
+        }
+      ]
+    }
+  ],
+  "tls": {
+    "provider": "Netlify-managed Let’s Encrypt",
+    "state": "issued",
+    "domains": [
+      "meridesign.cn",
+      "www.meridesign.cn"
+    ],
+    "createdAt": "2026-10-29T06:21:22.254Z",
+    "expiresAt": "2027-01-27T05:22:49.000Z",
+    "renewalError": null
+  },
+  "verification": {
+    "method": "Public-domain HTTPS requests with standard CA and hostname verification",
+    "wwwIp": "52.74.6.109",
+    "pages": [
+      {
+        "route": "/",
+        "status": 200,
+        "tlsVerified": true,
+        "localSiteVerified": true
+      },
+      {
+        "route": "/home-en",
+        "status": 200,
+        "tlsVerified": true,
+        "localSiteVerified": true
+      },
+      {
+        "route": "/user-guide",
+        "status": 200,
+        "tlsVerified": true,
+        "localSiteVerified": true
+      },
+      {
+        "route": "/user-guide-en",
+        "status": 200,
+        "tlsVerified": true,
+        "localSiteVerified": true
+      },
+      {
+        "route": "/usage-specification",
+        "status": 200,
+        "tlsVerified": true,
+        "localSiteVerified": true
+      },
+      {
+        "route": "/usage-specification-en",
+        "status": 200,
+        "tlsVerified": true,
+        "localSiteVerified": true
+      },
+      {
+        "route": "/consistency",
+        "status": 200,
+        "tlsVerified": true,
+        "localSiteVerified": true
+      },
+      {
+        "route": "/consistency-en",
+        "status": 200,
+        "tlsVerified": true,
+        "localSiteVerified": true
+      },
+      {
+        "route": "/update-log",
+        "status": 200,
+        "tlsVerified": true,
+        "localSiteVerified": true
+      },
+      {
+        "route": "/update-log-en",
+        "status": 200,
+        "tlsVerified": true,
+        "localSiteVerified": true
+      }
+    ],
+    "resources": [
+      {
+        "path": "/local/entry.js",
+        "status": 200,
+        "sha256": "9c76cc839ea517a73cf0bdce51bc251578e1f4b851f2495fc7cfd047d5cb4c09",
+        "matchesBuild": true
+      },
+      {
+        "path": "/local/custom.js",
+        "status": 200,
+        "sha256": "e13d5a3ee0f7372d8103b4b37b93170d7b06a481cd86c01b8d45ce2e20ba7255",
+        "matchesBuild": true
+      },
+      {
+        "path": "/local/custom.css",
+        "status": 200,
+        "sha256": "2c479e2cf470dd001103207de894eb153fb5058aa1bb442a94e5fff1883a6f4b",
+        "matchesBuild": true
+      }
+    ],
+    "redirects": [
+      {
+        "url": "https://meridesign.cn/",
+        "finalUrl": "https://www.meridesign.cn/",
+        "chain": [
+          {
+            "url": "https://meridesign.cn/",
+            "status": 301,
+            "location": "https://www.meridesign.cn/",
+            "tlsVerified": true
+          },
+          {
+            "url": "https://www.meridesign.cn/",
+            "status": 200,
+            "tlsVerified": true
+          }
+        ]
+      },
+      {
+        "url": "http://meridesign.cn/",
+        "finalUrl": "https://www.meridesign.cn/",
+        "chain": [
+          {
+            "url": "http://meridesign.cn/",
+            "status": 301,
+            "location": "https://meridesign.cn/"
+          },
+          {
+            "url": "https://meridesign.cn/",
+            "status": 301,
+            "location": "https://www.meridesign.cn/",
+            "tlsVerified": true
+          },
+          {
+            "url": "https://www.meridesign.cn/",
+            "status": 200,
+            "tlsVerified": true
+          }
+        ]
+      },
+      {
+        "url": "http://www.meridesign.cn/",
+        "finalUrl": "https://www.meridesign.cn/",
+        "chain": [
+          {
+            "url": "http://www.meridesign.cn/",
+            "status": 301,
+            "location": "https://www.meridesign.cn/"
+          },
+          {
+            "url": "https://www.meridesign.cn/",
+            "status": 200,
+            "tlsVerified": true
+          }
+        ]
+      }
+    ]
+  },
+  "screenshot": "screenshots/custom-domain-dns.png"
+}

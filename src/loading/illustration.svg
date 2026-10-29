@@ -1,0 +1,20 @@
+<svg class="meri-loading-art" viewBox="0 0 208 168" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
+  <g stroke="currentColor" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round">
+    <path class="meri-loading-ground" d="M15 151C52 148 126 154 190 150"/>
+    <g class="meri-loading-person">
+      <path d="M110 23C91 23 82 38 83 59C83 80 91 94 109 97C128 101 149 91 153 73C158 52 150 28 132 25C125 23 116 22 110 23Z"/>
+      <path d="M110 99C104 103 103 109 104 114M142 101C158 107 164 123 166 143M105 108C93 111 90 124 87 133M139 113C133 125 121 133 108 131L94 128M107 142C123 140 141 145 157 143"/>
+      <path d="M113 60L113.5 62M137 59L137.5 61" stroke-width="5.4"/>
+      <path class="meri-loading-smile" d="M111 74C116 88 132 87 139 72"/>
+      <path d="M94 128C90 124 84 124 83 127C81 131 88 136 97 137L110 137"/>
+    </g>
+    <g class="meri-loading-card" stroke="#2870ED">
+      <path d="M37 50C42 48 57 48 62 49L64 79L39 81L37 50Z" fill="white"/>
+      <path d="M44 58L55 57M45 65L57 64M46 72L53 72" stroke-width="2.4"/>
+    </g>
+    <path d="M27 111L58 99L88 111L57 124L27 111ZM27 112L29 139L58 151L58 124M58 151L87 138L88 112M28 111L18 103L48 92L58 99M58 99L68 91L98 103L88 111" fill="white"/>
+    <path d="M38 124L38 132L47 136L46 127L38 124Z" stroke-width="2.2"/>
+    <path class="meri-loading-spark meri-loading-spark-one" d="M171 38L172 48M166 43L177 43" stroke="#2870ED" stroke-width="2.6"/>
+    <path class="meri-loading-spark meri-loading-spark-two" d="M20 76L24 80M24 76L20 80M179 113L184 111" stroke-width="2.4"/>
+  </g>
+</svg>
