@@ -1,0 +1,740 @@
+[
+  {
+    "id": "9:553",
+    "name": "导航文本",
+    "original": "导航文本",
+    "text": "导航文本"
+  },
+  {
+    "id": "override",
+    "name": "开发模式下的使用说明",
+    "original": "开发模式下的使用说明",
+    "text": "开发模式下的使用说明"
+  },
+  {
+    "id": "override",
+    "name": "Consistency",
+    "original": "Consistency",
+    "text": "Consistency"
+  },
+  {
+    "id": "override",
+    "name": "Usage Specifications",
+    "original": "Usage Specifications",
+    "text": "Usage Specifications"
+  },
+  {
+    "id": "245:2498",
+    "name": "Added tag filtering and batch selection components",
+    "original": "Added tag filtering and batch selection components",
+    "text": "Added tag filtering and batch selection components"
+  },
+  {
+    "id": "override",
+    "name": "Meri Design",
+    "original": "Meri Design",
+    "text": "Meri Design"
+  },
+  {
+    "id": "override",
+    "name": "Usage Guide",
+    "original": "Usage Guide",
+    "text": "Usage Guide"
+  },
+  {
+    "id": "override",
+    "name": "2025.04.14",
+    "original": "2025.04.14",
+    "text": "2025.04.14"
+  },
+  {
+    "id": "151:19889",
+    "name": "Image previewer adds video style variable.",
+    "original": "Image previewer adds video style variable.",
+    "text": "Image previewer adds video style variable."
+  },
+  {
+    "id": "150:7774",
+    "name": "En",
+    "original": "En",
+    "text": "En"
+  },
+  {
+    "id": "151:20331",
+    "name": "Version 1.0.2",
+    "original": "Version 1.0.2",
+    "text": "Version 1.0.2"
+  },
+  {
+    "id": "28:277",
+    "name": "标题",
+    "original": "标题",
+    "text": "标题"
+  },
+  {
+    "id": "override",
+    "name": "设计组件变量说明",
+    "original": "设计组件变量说明",
+    "text": "设计组件变量说明"
+  },
+  {
+    "id": "151:19905",
+    "name": "2025.03.31",
+    "original": "2025.03.31",
+    "text": "2025.03.31"
+  },
+  {
+    "id": "47:10779",
+    "name": "12/Regular",
+    "original": "Ag",
+    "text": "Ag"
+  },
+  {
+    "id": "151:19892",
+    "name": "Instructions for using a single component.",
+    "original": "Instructions for using a single component.",
+    "text": "Instructions for using a single component."
+  },
+  {
+    "id": "151:20727",
+    "name": "The component has related usage instructions, including usage specifications, extreme case handling instructions, and variable extensions supported by development.",
+    "original": "The component has related usage instructions, including usage specifications, extreme case handling instructions, and variable extensions supported by development.",
+    "text": "The component has related usage instructions, including usage specifications, extreme case handling instructions, and variable extensions supported by development."
+  },
+  {
+    "id": "151:20335",
+    "name": "Add stepper cell.",
+    "original": "Add stepper cell.",
+    "text": "Add stepper cell."
+  },
+  {
+    "id": "237:13165",
+    "name": "Label",
+    "original": "Opt.",
+    "text": "Opt."
+  },
+  {
+    "id": "150:7776",
+    "name": "中",
+    "original": "中",
+    "text": "中"
+  },
+  {
+    "id": "151:19884",
+    "name": "2025.04.22",
+    "original": "2025.04.22",
+    "text": "2025.04.22"
+  },
+  {
+    "id": "237:13031",
+    "name": "Label",
+    "original": "New",
+    "text": "New"
+  },
+  {
+    "id": "151:20317",
+    "name": "New bottom operation bar for mobile, frequently used, this style does not provide code encapsulation.",
+    "original": "New bottom operation bar for mobile, frequently used, this style does not provide code encapsulation.",
+    "text": "New bottom operation bar for mobile, frequently used, this style does not provide code encapsulation."
+  },
+  {
+    "id": "151:20307",
+    "name": "2025.06.19",
+    "original": "2025.06.19",
+    "text": "2025.06.19"
+  },
+  {
+    "id": "245:2517",
+    "name": "Added personnel selection (single choice, multiple choice), ticket filtering, object selection, inventory selection, and other business components",
+    "original": "Added personnel selection (single choice, multiple choice), ticket filtering, object selection, inventory selection, and other business components",
+    "text": "Added personnel selection (single choice, multiple choice), ticket filtering, object selection, inventory selection, and other business components"
+  },
+  {
+    "id": "151:19915",
+    "name": "Due to the risk of accidental touches in the click hot zone, tree selection cancels pre-selection and uniformly adopts post-selection.",
+    "original": "Due to the risk of accidental touches in the click hot zone, tree selection cancels pre-selection and uniformly adopts post-selection.",
+    "text": "Due to the risk of accidental touches in the click hot zone, tree selection cancels pre-selection and uniformly adopts post-selection."
+  },
+  {
+    "id": "245:2494",
+    "name": "Version 1.0.3",
+    "original": "Version 1.0.3",
+    "text": "Version 1.0.3"
+  },
+  {
+    "id": "245:2507",
+    "name": "2026.08.05",
+    "original": "2026.08.05",
+    "text": "2026.08.05"
+  },
+  {
+    "id": "151:19901",
+    "name": "Image form adds size and prompt variables.",
+    "original": "Image form adds size and prompt variables.",
+    "text": "Image form adds size and prompt variables."
+  },
+  {
+    "id": "151:19874",
+    "name": "New business component encapsulated for multi-selection scenarios - bottom statistics operation bar, supports efficient operations for multi-selection enumeration, similar to Meituan takeaway's bottom operation bar.",
+    "original": "New business component encapsulated for multi-selection scenarios - bottom statistics operation bar, supports efficient operations for multi-selection enumeration, similar to Meituan takeaway's bottom operation bar.",
+    "text": "New business component encapsulated for multi-selection scenarios - bottom statistics operation bar, supports efficient operations for multi-selection enumeration, similar to Meituan takeaway's bottom operation bar."
+  },
+  {
+    "id": "47:10391",
+    "name": "14/Bold",
+    "original": "Rag 123",
+    "text": "Rag 123"
+  },
+  {
+    "id": "override",
+    "name": "设计调用",
+    "original": "设计调用",
+    "text": "设计调用"
+  },
+  {
+    "id": "900001:573",
+    "name": "2025.01.10",
+    "original": "2025.01.10",
+    "text": "2025.01.10"
+  },
+  {
+    "id": "900001:578",
+    "name": "Added an image form variant. This is a design style; developers must implement it with the base image control.",
+    "original": "Added an image form variant. This is a design style; developers must implement it with the base image control.",
+    "text": "Added an image form variant. This is a design style; developers must implement it with the base image control."
+  },
+  {
+    "id": "900001:583",
+    "name": "Added 21 icons.",
+    "original": "Added 21 icons.",
+    "text": "Added 21 icons."
+  },
+  {
+    "id": "900001:588",
+    "name": "Added filter-tag styling to tabs for third-level navigation or single- and multiple-selection filters.",
+    "original": "Added filter-tag styling to tabs for third-level navigation or single- and multiple-selection filters.",
+    "text": "Added filter-tag styling to tabs for third-level navigation or single- and multiple-selection filters."
+  },
+  {
+    "id": "900001:611",
+    "name": "2024.06.18",
+    "original": "2024.06.18",
+    "text": "2024.06.18"
+  },
+  {
+    "id": "900001:612",
+    "name": "Version 1.0.1",
+    "original": "Version 1.0.1",
+    "text": "Version 1.0.1"
+  },
+  {
+    "id": "900001:616",
+    "name": "Added tree selection. The Xi’an development team has implemented this component; contact them about its code and extensi",
+    "original": "Added tree selection. The Xi’an development team has implemented this component; contact them about its code and extension options.",
+    "text": "Added tree selection. The Xi’an development team has implemented this component; contact them about its code and extension options."
+  },
+  {
+    "id": "900001:629",
+    "name": "2023.12.26",
+    "original": "2023.12.26",
+    "text": "2023.12.26"
+  },
+  {
+    "id": "900001:630",
+    "name": "Version 1.0.0",
+    "original": "Version 1.0.0",
+    "text": "Version 1.0.0"
+  },
+  {
+    "id": "900001:634",
+    "name": "Added four note-container width options to cells and inputs, without detaching component instances.",
+    "original": "Added four note-container width options to cells and inputs, without detaching component instances.",
+    "text": "Added four note-container width options to cells and inputs, without detaching component instances."
+  },
+  {
+    "id": "900001:649",
+    "name": "2023.12.22",
+    "original": "2023.12.22",
+    "text": "2023.12.22"
+  },
+  {
+    "id": "900001:654",
+    "name": "Added 28 application icons, available in the icon library. They follow the X platform style and can represent mobile or ",
+    "original": "Added 28 application icons, available in the icon library. They follow the X platform style and can represent mobile or desktop applications.",
+    "text": "Added 28 application icons, available in the icon library. They follow the X platform style and can represent mobile or desktop applications."
+  },
+  {
+    "id": "900001:667",
+    "name": "2023.10.09",
+    "original": "2023.10.09",
+    "text": "2023.10.09"
+  },
+  {
+    "id": "900001:672",
+    "name": "Added Radio and Subset icons.",
+    "original": "Added Radio and Subset icons.",
+    "text": "Added Radio and Subset icons."
+  },
+  {
+    "id": "900001:689",
+    "name": "2023.09.18",
+    "original": "2023.09.18",
+    "text": "2023.09.18"
+  },
+  {
+    "id": "900001:694",
+    "name": "Completed usage descriptions and extension notes across components for designers and developers. Added development links",
+    "original": "Completed usage descriptions and extension notes across components for designers and developers.\nAdded development links for viewing component code, usage and supported APIs.",
+    "text": "Completed usage descriptions and extension notes across components for designers and developers.\nAdded development links for viewing component code, usage and supported APIs."
+  },
+  {
+    "id": "900001:705",
+    "name": "2023.09.13",
+    "original": "2023.09.13",
+    "text": "2023.09.13"
+  },
+  {
+    "id": "900001:710",
+    "name": "Category selection",
+    "original": "Category selection",
+    "text": "Category selection"
+  },
+  {
+    "id": "900001:715",
+    "name": "Aligned sidebar styling with the development component and added badge options.",
+    "original": "Aligned sidebar styling with the development component and added badge options.",
+    "text": "Aligned sidebar styling with the development component and added badge options."
+  },
+  {
+    "id": "900001:733",
+    "name": "2023.09.12",
+    "original": "2023.09.12",
+    "text": "2023.09.12"
+  },
+  {
+    "id": "900001:738",
+    "name": "Index bar",
+    "original": "Index bar",
+    "text": "Index bar"
+  },
+  {
+    "id": "900001:743",
+    "name": "Pagination",
+    "original": "Pagination",
+    "text": "Pagination"
+  },
+  {
+    "id": "900001:761",
+    "name": "2023.09.11",
+    "original": "2023.09.11",
+    "text": "2023.09.11"
+  },
+  {
+    "id": "900001:766",
+    "name": "Steps",
+    "original": "Steps",
+    "text": "Steps"
+  },
+  {
+    "id": "900001:771",
+    "name": "Action bar",
+    "original": "Action bar",
+    "text": "Action bar"
+  },
+  {
+    "id": "900001:789",
+    "name": "2023.09.08",
+    "original": "2023.09.08",
+    "text": "2023.09.08"
+  },
+  {
+    "id": "900001:794",
+    "name": "Notice bar",
+    "original": "Notice bar",
+    "text": "Notice bar"
+  },
+  {
+    "id": "900001:799",
+    "name": "Progress",
+    "original": "Progress",
+    "text": "Progress"
+  },
+  {
+    "id": "900001:804",
+    "name": "Skeleton",
+    "original": "Skeleton",
+    "text": "Skeleton"
+  },
+  {
+    "id": "900001:809",
+    "name": "Added unread badges and icon-switching options to the bottom menu.",
+    "original": "Added unread badges and icon-switching options to the bottom menu.",
+    "text": "Added unread badges and icon-switching options to the bottom menu."
+  },
+  {
+    "id": "900001:814",
+    "name": "Added pressed and loading options to buttons.",
+    "original": "Added pressed and loading options to buttons.",
+    "text": "Added pressed and loading options to buttons."
+  },
+  {
+    "id": "900001:847",
+    "name": "2023.09.07",
+    "original": "2023.09.07",
+    "text": "2023.09.07"
+  },
+  {
+    "id": "900001:852",
+    "name": "Circular progress",
+    "original": "Circular progress",
+    "text": "Circular progress"
+  },
+  {
+    "id": "900001:865",
+    "name": "2023.09.06",
+    "original": "2023.09.06",
+    "text": "2023.09.06"
+  },
+  {
+    "id": "900001:870",
+    "name": "Swipe cell",
+    "original": "Swipe cell",
+    "text": "Swipe cell"
+  },
+  {
+    "id": "900001:875",
+    "name": "Changed the required indicator in inputs to float on the left.",
+    "original": "Changed the required indicator in inputs to float on the left.",
+    "text": "Changed the required indicator in inputs to float on the left."
+  },
+  {
+    "id": "900001:880",
+    "name": "Added two count options to dropdown selectors.",
+    "original": "Added two count options to dropdown selectors.",
+    "text": "Added two count options to dropdown selectors."
+  },
+  {
+    "id": "900001:903",
+    "name": "2023.09.05",
+    "original": "2023.09.05",
+    "text": "2023.09.05"
+  },
+  {
+    "id": "900001:908",
+    "name": "Added a grid component.",
+    "original": "Added a grid component.",
+    "text": "Added a grid component."
+  },
+  {
+    "id": "900001:913",
+    "name": "Share sheet",
+    "original": "Share sheet",
+    "text": "Share sheet"
+  },
+  {
+    "id": "900001:918",
+    "name": "Completed usage notes and development links for all components, and added a non-card form style.",
+    "original": "Completed usage notes and development links for all components, and added a non-card form style.",
+    "text": "Completed usage notes and development links for all components, and added a non-card form style."
+  },
+  {
+    "id": "900001:941",
+    "name": "2023.09.01",
+    "original": "2023.09.01",
+    "text": "2023.09.01"
+  },
+  {
+    "id": "900001:946",
+    "name": "Added a slider component.",
+    "original": "Added a slider component.",
+    "text": "Added a slider component."
+  },
+  {
+    "id": "900001:951",
+    "name": "Added a stepper component.",
+    "original": "Added a stepper component.",
+    "text": "Added a stepper component."
+  },
+  {
+    "id": "900001:961",
+    "name": "Added a notification component.",
+    "original": "Added a notification component.",
+    "text": "Added a notification component."
+  },
+  {
+    "id": "900001:989",
+    "name": "2023.08.29",
+    "original": "2023.08.29",
+    "text": "2023.08.29"
+  },
+  {
+    "id": "900001:994",
+    "name": "Added 123 outline icons and 84 filled icons, synchronized with the Vant icon library.",
+    "original": "Added 123 outline icons and 84 filled icons, synchronized with the Vant icon library.",
+    "text": "Added 123 outline icons and 84 filled icons, synchronized with the Vant icon library."
+  },
+  {
+    "id": "900001:1007",
+    "name": "2023.08.18",
+    "original": "2023.08.18",
+    "text": "2023.08.18"
+  },
+  {
+    "id": "900001:1012",
+    "name": "Aligned input slots with frontend styling.",
+    "original": "Aligned input slots with frontend styling.",
+    "text": "Aligned input slots with frontend styling."
+  },
+  {
+    "id": "900001:1023",
+    "name": "2023.08.02",
+    "original": "2023.08.02",
+    "text": "2023.08.02"
+  },
+  {
+    "id": "900001:1028",
+    "name": "Adjusted dialog spacing and dimensions.",
+    "original": "Adjusted dialog spacing and dimensions.",
+    "text": "Adjusted dialog spacing and dimensions."
+  },
+  {
+    "id": "900001:1031",
+    "name": "Adjusted toast spacing, font sizes and dimensions.",
+    "original": "Adjusted toast spacing, font sizes and dimensions.",
+    "text": "Adjusted toast spacing, font sizes and dimensions."
+  },
+  {
+    "id": "900001:1045",
+    "name": "2023.08.01",
+    "original": "2023.08.01",
+    "text": "2023.08.01"
+  },
+  {
+    "id": "900001:1050",
+    "name": "Adjusted bottom-menu font sizes, styles and spacing.",
+    "original": "Adjusted bottom-menu font sizes, styles and spacing.",
+    "text": "Adjusted bottom-menu font sizes, styles and spacing."
+  },
+  {
+    "id": "900001:1053",
+    "name": "Adjusted collapse-panel styling.",
+    "original": "Adjusted collapse-panel styling.",
+    "text": "Adjusted collapse-panel styling."
+  },
+  {
+    "id": "900001:1056",
+    "name": "Adjusted tag font sizes and spacing.",
+    "original": "Adjusted tag font sizes and spacing.",
+    "text": "Adjusted tag font sizes and spacing."
+  },
+  {
+    "id": "900001:1059",
+    "name": "Adjusted badge font sizes and spacing, and added an icon visibility option.",
+    "original": "Adjusted badge font sizes and spacing, and added an icon visibility option.",
+    "text": "Adjusted badge font sizes and spacing, and added an icon visibility option."
+  },
+  {
+    "id": "900001:1062",
+    "name": "Removed filled and wrapping input styles. Updated the base input with field options and integrated text-area behavior.",
+    "original": "Removed filled and wrapping input styles. Updated the base input with field options and integrated text-area behavior.",
+    "text": "Removed filled and wrapping input styles. Updated the base input with field options and integrated text-area behavior."
+  },
+  {
+    "id": "900001:1065",
+    "name": "Adjusted font sizes and spacing in picker headers.",
+    "original": "Adjusted font sizes and spacing in picker headers.",
+    "text": "Adjusted font sizes and spacing in picker headers."
+  },
+  {
+    "id": "900001:1068",
+    "name": "Adjusted search-bar icon and font sizes.",
+    "original": "Adjusted search-bar icon and font sizes.",
+    "text": "Adjusted search-bar icon and font sizes."
+  },
+  {
+    "id": "900001:1071",
+    "name": "Adjusted styles and spacing for radio and multiple-selection controls.",
+    "original": "Adjusted styles and spacing for radio and multiple-selection controls.",
+    "text": "Adjusted styles and spacing for radio and multiple-selection controls."
+  },
+  {
+    "id": "900001:1074",
+    "name": "Adjusted time- and date-picker dimensions.",
+    "original": "Adjusted time- and date-picker dimensions.",
+    "text": "Adjusted time- and date-picker dimensions."
+  },
+  {
+    "id": "900001:1077",
+    "name": "Rebuilt the calendar.",
+    "original": "Rebuilt the calendar.",
+    "text": "Rebuilt the calendar."
+  },
+  {
+    "id": "900001:1080",
+    "name": "Set maximum and minimum popover sizes and adjusted spacing, font sizes and layout.",
+    "original": "Set maximum and minimum popover sizes and adjusted spacing, font sizes and layout.",
+    "text": "Set maximum and minimum popover sizes and adjusted spacing, font sizes and layout."
+  },
+  {
+    "id": "900001:1083",
+    "name": "Removed loading effects that could not be implemented.",
+    "original": "Removed loading effects that could not be implemented.",
+    "text": "Removed loading effects that could not be implemented."
+  },
+  {
+    "id": "900001:1086",
+    "name": "Adjusted action-sheet font sizes and state styles.",
+    "original": "Adjusted action-sheet font sizes and state styles.",
+    "text": "Adjusted action-sheet font sizes and state styles."
+  },
+  {
+    "id": "900001:1133",
+    "name": "2023.07.31",
+    "original": "2023.07.31",
+    "text": "2023.07.31"
+  },
+  {
+    "id": "900001:1138",
+    "name": "Breadcrumb",
+    "original": "Breadcrumb",
+    "text": "Breadcrumb"
+  },
+  {
+    "id": "900001:1141",
+    "name": "Changed navigation titles to 16 px bold, removed the dual-icon options, and changed icon dimensions to 18 × 18 px.",
+    "original": "Changed navigation titles to 16 px bold, removed the dual-icon options, and changed icon dimensions to 18 × 18 px.",
+    "text": "Changed navigation titles to 16 px bold, removed the dual-icon options, and changed icon dimensions to 18 × 18 px."
+  },
+  {
+    "id": "900001:1144",
+    "name": "Removed the gray pill-style tab bar and size options, and adjusted container dimensions.",
+    "original": "Removed the gray pill-style tab bar and size options, and adjusted container dimensions.",
+    "text": "Removed the gray pill-style tab bar and size options, and adjusted container dimensions."
+  },
+  {
+    "id": "900001:1147",
+    "name": "Added a minimum-size option to buttons.",
+    "original": "Added a minimum-size option to buttons.",
+    "text": "Added a minimum-size option to buttons."
+  },
+  {
+    "id": "900001:1150",
+    "name": "Refined the sidebar to match the current development implementation.",
+    "original": "Refined the sidebar to match the current development implementation.",
+    "text": "Refined the sidebar to match the current development implementation."
+  },
+  {
+    "id": "900001:1153",
+    "name": "Fix",
+    "original": "Fix",
+    "text": "Fix"
+  },
+  {
+    "id": "60:10853",
+    "name": "Label",
+    "original": "Label",
+    "text": "Label"
+  },
+  {
+    "id": "900001:1154",
+    "name": "Fixed alignment when form content wraps automatically.",
+    "original": "Fixed alignment when form content wraps automatically.",
+    "text": "Fixed alignment when form content wraps automatically."
+  },
+  {
+    "id": "900001:1181",
+    "name": "2023.07.24",
+    "original": "2023.07.24",
+    "text": "2023.07.24"
+  },
+  {
+    "id": "900001:1186",
+    "name": "Initial release",
+    "original": "Initial release",
+    "text": "Init."
+  },
+  {
+    "id": "900001:1187",
+    "name": "Released the V1.0.0 interim revision. The complete mobile design library differed substantially from the available imple",
+    "original": "Released the V1.0.0 interim revision. The complete mobile design library differed substantially from the available implementation, and development resources were not yet available to close the gap. This revision reduces some visual and interaction details to match the current implementation and keep design and code consistent. The full version remains the long-term target as development resources become available.\nAligned the full icon set with Vant icon guidelines.\nAdjusted form containers and text sizes.\nAdjusted button containers and text sizes.",
+    "text": "Released the V1.0.0 interim revision. The complete mobile design library differed substantially from the available implementation, and development resources were not yet available to close the gap. This revision reduces some visual and interaction details to match the current implementation and keep design and code consistent. The full version remains the long-term target as development resources become available.\nAligned the full icon set with Vant icon guidelines.\nAdjusted form containers and text sizes.\nAdjusted button containers and text sizes."
+  },
+  {
+    "id": "900001:1346",
+    "name": "单个组件使用说明",
+    "original": "单个组件使用说明",
+    "text": "单个组件使用说明"
+  },
+  {
+    "id": "900001:1351",
+    "name": "组件有相关使用说明，包括组件相关使用规范、极端情况处理说明、开发支持的变量拓展等",
+    "original": "组件有相关使用说明，包括组件相关使用规范、极端情况处理说明、开发支持的变量拓展等",
+    "text": "组件有相关使用说明，包括组件相关使用规范、极端情况处理说明、开发支持的变量拓展等"
+  },
+  {
+    "id": "900001:1355",
+    "name": "图片表单增加尺寸、提示变量",
+    "original": "图片表单增加尺寸、提示变量",
+    "text": "图片表单增加尺寸、提示变量"
+  },
+  {
+    "id": "900001:1376",
+    "name": "Added an Add location icon.",
+    "original": "Added an Add location icon.",
+    "text": "Added an Add location icon."
+  },
+  {
+    "id": "900001:1394",
+    "name": "Added selection controls to cells, with states for single and multiple selection.",
+    "original": "Added selection controls to cells, with states for single and multiple selection.",
+    "text": "Added selection controls to cells, with states for single and multiple selection."
+  },
+  {
+    "id": "900001:1399",
+    "name": "Refined form, radio and checkbox styles in custom action sheets, with two reference styles.",
+    "original": "Refined form, radio and checkbox styles in custom action sheets, with two reference styles.",
+    "text": "Refined form, radio and checkbox styles in custom action sheets, with two reference styles."
+  },
+  {
+    "id": "900001:1422",
+    "name": "Added leading selection controls and large/default size options to radio and checkbox cells.",
+    "original": "Added leading selection controls and large/default size options to radio and checkbox cells.",
+    "text": "Added leading selection controls and large/default size options to radio and checkbox cells."
+  },
+  {
+    "id": "900001:1427",
+    "name": "Added a multiple-selection type to collapse panels.",
+    "original": "Added a multiple-selection type to collapse panels.",
+    "text": "Added a multiple-selection type to collapse panels."
+  },
+  {
+    "id": "900001:1450",
+    "name": "Added a cascader.",
+    "original": "Added a cascader.",
+    "text": "Added a cascader."
+  },
+  {
+    "id": "900001:1455",
+    "name": "Added a time picker supporting different combinations of year, month, day, hour and minute.",
+    "original": "Added a time picker supporting different combinations of year, month, day, hour and minute.",
+    "text": "Added a time picker supporting different combinations of year, month, day, hour and minute."
+  },
+  {
+    "id": "900001:1478",
+    "name": "Added a swipe carousel.",
+    "original": "Added a swipe carousel.",
+    "text": "Added a swipe carousel."
+  },
+  {
+    "id": "900001:1481",
+    "name": "Refined avatar sizes and spacing in form components.",
+    "original": "Refined avatar sizes and spacing in form components.",
+    "text": "Refined avatar sizes and spacing in form components."
+  },
+  {
+    "id": "900001:1186",
+    "name": "Init.",
+    "original": "Init.",
+    "text": "Init."
+  }
+]

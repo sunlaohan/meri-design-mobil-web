@@ -1,0 +1,1034 @@
+[
+  {
+    "id": "override",
+    "name": "Meri Design",
+    "original": "Meri Design",
+    "text": "Meri Design"
+  },
+  {
+    "id": "override",
+    "name": "Consistency",
+    "original": "Consistency",
+    "text": "Consistency"
+  },
+  {
+    "id": "override",
+    "name": "Usage Guide",
+    "original": "Usage Guide",
+    "text": "Usage Guide"
+  },
+  {
+    "id": "150:7776",
+    "name": "中",
+    "original": "中",
+    "text": "中"
+  },
+  {
+    "id": "28:140",
+    "name": "导航文本",
+    "original": "导航文本",
+    "text": "导航文本"
+  },
+  {
+    "id": "override",
+    "name": "Usage Specifications",
+    "original": "Usage Specifications",
+    "text": "Usage Specifications"
+  },
+  {
+    "id": "52:6264",
+    "name": "label-text",
+    "original": "按钮文本",
+    "text": "按钮文本"
+  },
+  {
+    "id": "47:10371",
+    "name": "Time",
+    "original": "9:41",
+    "text": "9:41"
+  },
+  {
+    "id": "28:277",
+    "name": "标题",
+    "original": "标题",
+    "text": "标题"
+  },
+  {
+    "id": "override",
+    "name": "This is an incorrect demonstration, plea",
+    "original": "This is an incorrect demonstration, please do not imitate. This is an incorrect demonstration, please do not imitate.",
+    "text": "This is an incorrect demonstration, please do not imitate. This is an incorrect demonstration, please do not imitate."
+  },
+  {
+    "id": "151:10852",
+    "name": "Text within buttons does not support line breaks or ellipsis display; ensure sufficient width for complete display of button text.",
+    "original": "Text within buttons does not support line breaks or ellipsis display; ensure sufficient width for complete display of button text.",
+    "text": "Text within buttons does not support line breaks or ellipsis display; ensure sufficient width for complete display of button text."
+  },
+  {
+    "id": "151:10851",
+    "name": "Improper Use",
+    "original": "Improper Use",
+    "text": "Improper Use"
+  },
+  {
+    "id": "override",
+    "name": "Button",
+    "original": "Button",
+    "text": "Button"
+  },
+  {
+    "id": "151:10847",
+    "name": "You can customize the width according to usage needs, provided it complies with maximum and minimum width specifications.",
+    "original": "You can customize the width according to usage needs, provided it complies with maximum and minimum width specifications.",
+    "text": "You can customize the width according to usage needs, provided it complies with maximum and minimum width specifications."
+  },
+  {
+    "id": "151:10846",
+    "name": "Fixed Width",
+    "original": "Fixed Width",
+    "text": "Fixed Width"
+  },
+  {
+    "id": "151:10838",
+    "name": "Content Area",
+    "original": "Content Area",
+    "text": "Content Area"
+  },
+  {
+    "id": "override",
+    "name": "Button Text",
+    "original": "Button Text",
+    "text": "Button Text"
+  },
+  {
+    "id": "151:10834",
+    "name": "The maximum width should not exceed the content area of the screen.",
+    "original": "The maximum width should not exceed the content area of the screen.",
+    "text": "The maximum width should not exceed the content area of the screen."
+  },
+  {
+    "id": "151:10833",
+    "name": "Maximum Width",
+    "original": "Maximum Width",
+    "text": "Maximum Width"
+  },
+  {
+    "id": "60:10817",
+    "name": "内文辅助文本",
+    "original": "Ag",
+    "text": "Ag"
+  },
+  {
+    "id": "151:10816",
+    "name": "Large",
+    "original": "Large",
+    "text": "Large"
+  },
+  {
+    "id": "151:10817",
+    "name": "Taking the primary button as an example (other style-related parameters are consistent).",
+    "original": "Taking the primary button as an example (other style-related parameters are consistent).",
+    "text": "Taking the primary button as an example (other style-related parameters are consistent)."
+  },
+  {
+    "id": "151:10809",
+    "name": "Default",
+    "original": "Default",
+    "text": "Default"
+  },
+  {
+    "id": "151:10745",
+    "name": "Text buttons are often used for triggering weaker entry points, commonly embedded in navigation, dialog boxes, and other components.",
+    "original": "Text buttons are often used for triggering weaker entry points, commonly embedded in navigation, dialog boxes, and other components.",
+    "text": "Text buttons are often used for triggering weaker entry points, commonly embedded in navigation, dialog boxes, and other components."
+  },
+  {
+    "id": "151:10797",
+    "name": "Secondary Button (Default Size)",
+    "original": "Secondary Button (Default Size)",
+    "text": "Secondary Button (Default Size)"
+  },
+  {
+    "id": "151:10788",
+    "name": "Text Button (Default Size)",
+    "original": "Text Button (Default Size)",
+    "text": "Text Button (Default Size)"
+  },
+  {
+    "id": "151:10255",
+    "name": "Both iPhone and Android follow the system text. Currently, Figma components use the Pingfang font for encapsulation, making it easier for iPhone models to perceive the landing effect when using the Figma app for screen projection, while also facilitating design review comparisons.",
+    "original": "Both iPhone and Android follow the system text. Currently, Figma components use the Pingfang font for encapsulation, making it easier for iPhone models to perceive the landing effect when using the Figma app for screen projection, while also facilitating design review comparisons.",
+    "text": "Both iPhone and Android follow the system text. Currently, Figma components use the Pingfang font for encapsulation, making it easier for iPhone models to perceive the landing effect when using the Figma app for screen projection, while also facilitating design review comparisons."
+  },
+  {
+    "id": "151:10780",
+    "name": "States are as follows: Default, Pressed, Disabled, Loading. The width remains consistent with the original button width when entering the loading state.",
+    "original": "States are as follows: Default, Pressed, Disabled, Loading. The width remains consistent with the original button width when entering the loading state.",
+    "text": "States are as follows: Default, Pressed, Disabled, Loading. The width remains consistent with the original button width when entering the loading state."
+  },
+  {
+    "id": "151:10779",
+    "name": "Outline Button (Default Size)",
+    "original": "Outline Button (Default Size)",
+    "text": "Outline Button (Default Size)"
+  },
+  {
+    "id": "151:10362",
+    "name": "Component-title",
+    "original": "Button Size",
+    "text": "Button Size"
+  },
+  {
+    "id": "151:10770",
+    "name": "Primary Button (Default Size)",
+    "original": "Primary Button (Default Size)",
+    "text": "Primary Button (Default Size)"
+  },
+  {
+    "id": "151:10766",
+    "name": "Component-title",
+    "original": "Button State",
+    "text": "Button State"
+  },
+  {
+    "id": "237:13532",
+    "name": "副标题文本",
+    "original": "Subtitle text",
+    "text": "Subtitle text"
+  },
+  {
+    "id": "151:10189",
+    "name": "Layout",
+    "original": "Layout",
+    "text": "Layout"
+  },
+  {
+    "id": "151:10730",
+    "name": "Secondary Button",
+    "original": "Secondary Button",
+    "text": "Secondary Button"
+  },
+  {
+    "id": "151:10726",
+    "name": "Component-title",
+    "original": "Button Type",
+    "text": "Button Type"
+  },
+  {
+    "id": "151:10720",
+    "name": "16/Regular font-size: 16px font-weight: 400 line-height: 24px",
+    "original": "16/Regular\nfont-size: 16px\nfont-weight: 400\nline-height: 24px",
+    "text": "16/Regular\nfont-size: 16px\nfont-weight: 400\nline-height: 24px"
+  },
+  {
+    "id": "151:10717",
+    "name": "四级文字/加粗/14px/行高22px",
+    "original": "14/Bold\nfont-size: 14px\nfont-weight: 600\nline-height: 22px",
+    "text": "14/Bold\nfont-size: 14px\nfont-weight: 600\nline-height: 22px"
+  },
+  {
+    "id": "151:10716",
+    "name": "三级文字/加粗/16px/行高24px",
+    "original": "16/Bold\nfont-size: 16px\nfont-weight: 600\nline-height: 24px",
+    "text": "16/Bold\nfont-size: 16px\nfont-weight: 600\nline-height: 24px"
+  },
+  {
+    "id": "151:10713",
+    "name": "12px/Regular/Line height 20px",
+    "original": "12px/Regular/Line height 20px",
+    "text": "12px/Regular/Line height 20px"
+  },
+  {
+    "id": "151:10710",
+    "name": "18px/Regular/Line height 24px",
+    "original": "18px/Regular/Line height 24px",
+    "text": "18px/Regular/Line height 24px"
+  },
+  {
+    "id": "151:10738",
+    "name": "Outline buttons are mostly used on backgrounds and can have their border color adjusted as needed.",
+    "original": "Outline buttons are mostly used on backgrounds and can have their border color adjusted as needed.",
+    "text": "Outline buttons are mostly used on backgrounds and can have their border color adjusted as needed."
+  },
+  {
+    "id": "151:10708",
+    "name": "五级文字/加粗/12px/行高20px",
+    "original": "12px/Bold/Line height 20px",
+    "text": "12px/Bold/Line height 20px"
+  },
+  {
+    "id": "151:10706",
+    "name": "三级文字/加粗/16px/行高24px",
+    "original": "16px/Bold/Line height 24px",
+    "text": "16px/Bold/Line height 24px"
+  },
+  {
+    "id": "151:10700",
+    "name": "Component-title",
+    "original": "Font Display",
+    "text": "Font Display"
+  },
+  {
+    "id": "237:13496",
+    "name": "操作",
+    "original": "操作",
+    "text": "操作"
+  },
+  {
+    "id": "151:10696",
+    "name": "Component-title",
+    "original": "Font Type",
+    "text": "Font Type"
+  },
+  {
+    "id": "151:10694",
+    "name": "Font",
+    "original": "Font",
+    "text": "Font"
+  },
+  {
+    "id": "151:10752",
+    "name": "Standalone icon buttons are mostly used for floating actions to trigger more operations or to collapse content.",
+    "original": "Standalone icon buttons are mostly used for floating actions to trigger more operations or to collapse content.",
+    "text": "Standalone icon buttons are mostly used for floating actions to trigger more operations or to collapse content."
+  },
+  {
+    "id": "151:10318",
+    "name": "Primary buttons can guide important click events on the page, and it's best to avoid using multiple primary buttons simultaneously.",
+    "original": "Primary buttons can guide important click events on the page, and it's best to avoid using multiple primary buttons simultaneously.",
+    "text": "Primary buttons can guide important click events on the page, and it's best to avoid using multiple primary buttons simultaneously."
+  },
+  {
+    "id": "151:10656",
+    "name": "20pt",
+    "original": "20pt",
+    "text": "20pt"
+  },
+  {
+    "id": "151:10688",
+    "name": "Our spacing only requires an outer margin of 16px; designers in the content area can define a grid system that suits the product based on business characteristics.",
+    "original": "Our spacing only requires an outer margin of 16px; designers in the content area can define a grid system that suits the product based on business characteristics.",
+    "text": "Our spacing only requires an outer margin of 16px; designers in the content area can define a grid system that suits the product based on business characteristics."
+  },
+  {
+    "id": "151:10636",
+    "name": "iPhone selects 375*812pt @1x as the design baseline, adapting upwards to @2x, @3x. Android selects 360*720dp QHD as the design baseline, adapting upwards to xhdpi, xxhdpi, xxxhdpi.",
+    "original": "iPhone selects 375*812pt @1x as the design baseline, adapting upwards to @2x, @3x.\nAndroid selects 360*720dp QHD as the design baseline, adapting upwards to xhdpi, xxhdpi, xxxhdpi.",
+    "text": "iPhone selects 375*812pt @1x as the design baseline, adapting upwards to @2x, @3x.\nAndroid selects 360*720dp QHD as the design baseline, adapting upwards to xhdpi, xxhdpi, xxxhdpi."
+  },
+  {
+    "id": "151:10680",
+    "name": "52pt",
+    "original": "52pt",
+    "text": "52pt"
+  },
+  {
+    "id": "151:10705",
+    "name": "三级文字/加粗/16px/行高24px",
+    "original": "18px/Bold/Line height 24px",
+    "text": "18px/Bold/Line height 24px"
+  },
+  {
+    "id": "151:10674",
+    "name": "44pt",
+    "original": "44pt",
+    "text": "44pt"
+  },
+  {
+    "id": "151:10668",
+    "name": "36pt",
+    "original": "36pt",
+    "text": "36pt"
+  },
+  {
+    "id": "151:10665",
+    "name": "32pt",
+    "original": "32pt",
+    "text": "32pt"
+  },
+  {
+    "id": "151:10659",
+    "name": "24pt",
+    "original": "24pt",
+    "text": "24pt"
+  },
+  {
+    "id": "151:10650",
+    "name": "12pt",
+    "original": "12pt",
+    "text": "12pt"
+  },
+  {
+    "id": "151:10644",
+    "name": "4pt",
+    "original": "4pt",
+    "text": "4pt"
+  },
+  {
+    "id": "151:10638",
+    "name": "Component-title",
+    "original": "Layout Spacing",
+    "text": "Layout Spacing"
+  },
+  {
+    "id": "override",
+    "name": "设计调用",
+    "original": "设计调用",
+    "text": "设计调用"
+  },
+  {
+    "id": "151:10751",
+    "name": "Icon Button",
+    "original": "Icon Button",
+    "text": "Icon Button"
+  },
+  {
+    "id": "151:10702",
+    "name": "Currently, only mainstream scenarios are provided with font sizes and attributes, aligning line height with PC font specifications, using the n+8 principle.",
+    "original": "Currently, only mainstream scenarios are provided with font sizes and attributes, aligning line height with PC font specifications, using the n+8 principle.",
+    "text": "Currently, only mainstream scenarios are provided with font sizes and attributes, aligning line height with PC font specifications, using the n+8 principle."
+  },
+  {
+    "id": "151:10711",
+    "name": "16px/Regular/Line height 24px",
+    "original": "16px/Regular/Line height 24px",
+    "text": "16px/Regular/Line height 24px"
+  },
+  {
+    "id": "151:10721",
+    "name": "14/Regular font-size: 14px font-weight: 400 line-height: 22px",
+    "original": "14/Regular\nfont-size: 14px\nfont-weight: 400\nline-height: 22px",
+    "text": "14/Regular\nfont-size: 14px\nfont-weight: 400\nline-height: 22px"
+  },
+  {
+    "id": "151:10737",
+    "name": "Outline Button",
+    "original": "Outline Button",
+    "text": "Outline Button"
+  },
+  {
+    "id": "151:10671",
+    "name": "40pt",
+    "original": "40pt",
+    "text": "40pt"
+  },
+  {
+    "id": "151:10640",
+    "name": "Spacing design principles follow a unified 4pt grid system, using multiples of 4 for spacing, such as 4, 8, 16, 24, 32. This is suitable for most mobile screen sizes. Establish a hierarchy of spacing levels to accommodate different scenarios.",
+    "original": "Spacing design principles follow a unified 4pt grid system, using multiples of 4 for spacing, such as 4, 8, 16, 24, 32. This is suitable for most mobile screen sizes. Establish a hierarchy of spacing levels to accommodate different scenarios.",
+    "text": "Spacing design principles follow a unified 4pt grid system, using multiples of 4 for spacing, such as 4, 8, 16, 24, 32. This is suitable for most mobile screen sizes. Establish a hierarchy of spacing levels to accommodate different scenarios."
+  },
+  {
+    "id": "151:10240",
+    "name": "56pt",
+    "original": "56pt",
+    "text": "56pt"
+  },
+  {
+    "id": "151:10380",
+    "name": "Small",
+    "original": "Small",
+    "text": "Small"
+  },
+  {
+    "id": "151:10210",
+    "name": "16pt",
+    "original": "16pt",
+    "text": "16pt"
+  },
+  {
+    "id": "151:10219",
+    "name": "28pt",
+    "original": "28pt",
+    "text": "28pt"
+  },
+  {
+    "id": "151:10241",
+    "name": "In the overall spacing for mobile, all designs are based on multiples of 4, making the overall interface cleaner and more orderly.",
+    "original": "In the overall spacing for mobile, all designs are based on multiples of 4, making the overall interface cleaner and more orderly.",
+    "text": "In the overall spacing for mobile, all designs are based on multiples of 4, making the overall interface cleaner and more orderly."
+  },
+  {
+    "id": "151:10722",
+    "name": "12/Regular font-size: 12px font-weight: 400 line-height: 20px",
+    "original": "12/Regular\nfont-size: 12px\nfont-weight: 400\nline-height: 20px",
+    "text": "12/Regular\nfont-size: 12px\nfont-weight: 400\nline-height: 20px"
+  },
+  {
+    "id": "151:10398",
+    "name": "Minimum Width",
+    "original": "Minimum Width",
+    "text": "Minimum Width"
+  },
+  {
+    "id": "151:10386",
+    "name": "Component-title",
+    "original": "Related Usage Restrictions",
+    "text": "Usage Restrictions"
+  },
+  {
+    "id": "151:10718",
+    "name": "五级文字/加粗/12px/行高20px",
+    "original": "12/Bold\nfont-size: 12px\nfont-weight: 600\nline-height: 20px",
+    "text": "12/Bold\nfont-size: 12px\nfont-weight: 600\nline-height: 20px"
+  },
+  {
+    "id": "151:10731",
+    "name": "Secondary buttons are mostly used in combination with primary buttons or for weaker behavioral guidance.",
+    "original": "Secondary buttons are mostly used in combination with primary buttons or for weaker behavioral guidance.",
+    "text": "Secondary buttons are mostly used in combination with primary buttons or for weaker behavioral guidance."
+  },
+  {
+    "id": "237:13530",
+    "name": "我是标题",
+    "original": "I am the title",
+    "text": "I am the title"
+  },
+  {
+    "id": "151:10760",
+    "name": "Primary Button (Filled Button)",
+    "original": "Primary Button (Filled Button)",
+    "text": "Primary Button (Filled Button)"
+  },
+  {
+    "id": "151:10269",
+    "name": "14px/Regular/Line height 22px",
+    "original": "14px/Regular/Line height 22px",
+    "text": "14px/Regular/Line height 22px"
+  },
+  {
+    "id": "151:10301",
+    "name": "Text Button",
+    "original": "Text Button",
+    "text": "Text Button"
+  },
+  {
+    "id": "override",
+    "name": "设计组件变量说明",
+    "original": "设计组件变量说明",
+    "text": "设计组件变量说明"
+  },
+  {
+    "id": "151:10204",
+    "name": "8pt",
+    "original": "8pt",
+    "text": "8pt"
+  },
+  {
+    "id": "151:10234",
+    "name": "48pt",
+    "original": "48pt",
+    "text": "48pt"
+  },
+  {
+    "id": "151:10686",
+    "name": "Component-title",
+    "original": "Spacing Settings",
+    "text": "Spacing Settings"
+  },
+  {
+    "id": "150:7774",
+    "name": "En",
+    "original": "En",
+    "text": "En"
+  },
+  {
+    "id": "151:10707",
+    "name": "四级文字/加粗/14px/行高22px",
+    "original": "14px/Bold/Line height 22px",
+    "text": "14px/Bold/Line height 22px"
+  },
+  {
+    "id": "151:10842",
+    "name": "The minimum width should not be less than 60px; pure icon buttons are not subject to minimum width restrictions.",
+    "original": "The minimum width should not be less than 60px; pure icon buttons are not subject to minimum width restrictions.",
+    "text": "The minimum width should not be less than 60px; pure icon buttons are not subject to minimum width restrictions."
+  },
+  {
+    "id": "override",
+    "name": " 单个组件使用说明",
+    "original": " 单个组件使用说明",
+    "text": " 单个组件使用说明"
+  },
+  {
+    "id": "151:10634",
+    "name": "Component-title",
+    "original": "Control Baseline Settings",
+    "text": "Control Baseline Settings"
+  },
+  {
+    "id": "47:10345",
+    "name": "16/Bold",
+    "original": "Rag 123",
+    "text": "Rag 123"
+  },
+  {
+    "id": "900001:2",
+    "name": "Cell",
+    "original": "Cell",
+    "text": "Cell"
+  },
+  {
+    "id": "900001:4",
+    "name": "Cell types",
+    "original": "Cell types",
+    "text": "Cell types"
+  },
+  {
+    "id": "900001:7",
+    "name": "Single-line cell",
+    "original": "Single-line cell",
+    "text": "Single-line cell"
+  },
+  {
+    "id": "900001:8",
+    "name": "From left to right: default size and large size.",
+    "original": "From left to right: default size and large size.",
+    "text": "From left to right: default size and large size."
+  },
+  {
+    "id": "47:10793",
+    "name": "Title",
+    "original": "Title",
+    "text": "Title"
+  },
+  {
+    "id": "47:10655",
+    "name": "Tag",
+    "original": "Tag",
+    "text": "Tag"
+  },
+  {
+    "id": "47:10804",
+    "name": "Note",
+    "original": "Note",
+    "text": "Note"
+  },
+  {
+    "id": "47:10808",
+    "name": "12",
+    "original": "12",
+    "text": "12"
+  },
+  {
+    "id": "47:10397",
+    "name": "9",
+    "original": "9",
+    "text": "9"
+  },
+  {
+    "id": "47:10814",
+    "name": "*",
+    "original": "*",
+    "text": "*"
+  },
+  {
+    "id": "900001:14",
+    "name": "Two-line cell",
+    "original": "Two-line cell",
+    "text": "Two-line cell"
+  },
+  {
+    "id": "47:11152",
+    "name": "备注内容描述",
+    "original": "备注内容描述",
+    "text": "Note description"
+  },
+  {
+    "id": "900001:20",
+    "name": "Cell states",
+    "original": "Cell states",
+    "text": "Cell states"
+  },
+  {
+    "id": "900001:24",
+    "name": "From left to right: default, filled, pressed and disabled.",
+    "original": "From left to right: default, filled, pressed and disabled.",
+    "text": "From left to right: default, filled, pressed and disabled."
+  },
+  {
+    "id": "900001:40",
+    "name": "Supported APIs",
+    "original": "Supported APIs",
+    "text": "Supported APIs"
+  },
+  {
+    "id": "900001:44",
+    "name": "Cell text wraps by default. If truncation is needed, specify it in the design notes for developers. Bold text is support",
+    "original": "Cell text wraps by default. If truncation is needed, specify it in the design notes for developers. Bold text is supported.",
+    "text": "Cell text wraps by default. If truncation is needed, specify it in the design notes for developers. Bold text is supported."
+  },
+  {
+    "id": "900001:46",
+    "name": "Default size: 14 px. Long cell text wraps automatically to keep the full content readable.",
+    "original": "Default size: 14 px. Long cell text wraps automatically to keep the full content readable.",
+    "text": "Default size: 14 px. Long cell text wraps automatically to keep the full content readable."
+  },
+  {
+    "id": "900001:47",
+    "name": "Large size: 16 px. Long cell text wraps automatically to keep the full content readable.",
+    "original": "Large size: 16 px. Long cell text wraps automatically to keep the full content readable.",
+    "text": "Large size: 16 px. Long cell text wraps automatically to keep the full content readable."
+  },
+  {
+    "id": "900001:50",
+    "name": "Single line — leading slot",
+    "original": "Single line — leading slot",
+    "text": "Single line — leading slot"
+  },
+  {
+    "id": "900001:51",
+    "name": "The leading slot supports several types of content. Try the examples to explore them. Slot containers fill the available",
+    "original": "The leading slot supports several types of content. Try the examples to explore them. Slot containers fill the available space by default; set the text to fit its content when needed.",
+    "text": "The leading slot supports several types of content. Try the examples to explore them. Slot containers fill the available space by default; set the text to fit its content when needed."
+  },
+  {
+    "id": "900001:60",
+    "name": "Single line — trailing slot",
+    "original": "Single line — trailing slot",
+    "text": "Single line — trailing slot"
+  },
+  {
+    "id": "900001:61",
+    "name": "The trailing slot is generally used to display values. Text wraps by default; specify truncation in the design notes whe",
+    "original": "The trailing slot is generally used to display values. Text wraps by default; specify truncation in the design notes when needed.",
+    "text": "The trailing slot is generally used to display values. Text wraps by default; specify truncation in the design notes when needed."
+  },
+  {
+    "id": "900001:67",
+    "name": "This longer example shows how a cell displays content that extends beyond a single line.",
+    "original": "This longer example shows how a cell displays content that extends beyond a single line.",
+    "text": "This longer example shows how a cell displays content that extends beyond a single line."
+  },
+  {
+    "id": "900001:67",
+    "name": "Short note",
+    "original": "Short note",
+    "text": "Short note"
+  },
+  {
+    "id": "900001:68",
+    "name": "A longer note needs more space",
+    "original": "A longer note needs more space",
+    "text": "A longer note needs more space"
+  },
+  {
+    "id": "900001:72",
+    "name": "Use a two-line cell when supplementary information needs its own hierarchy. Text wraps by default; limit its height if t",
+    "original": "Use a two-line cell when supplementary information needs its own hierarchy. Text wraps by default; limit its height if truncation is required.",
+    "text": "Use a two-line cell when supplementary information needs its own hierarchy. Text wraps by default; limit its height if truncation is required."
+  },
+  {
+    "id": "900001:74",
+    "name": "12 px note text wraps automatically when the content is too long.",
+    "original": "12 px note text wraps automatically when the content is too long.",
+    "text": "12 px note text wraps automatically when the content is too long."
+  },
+  {
+    "id": "900001:75",
+    "name": "14 px note text wraps automatically when the content is too long.",
+    "original": "14 px note text wraps automatically when the content is too long.",
+    "text": "14 px note text wraps automatically when the content is too long."
+  },
+  {
+    "id": "900001:78",
+    "name": "Two lines — slots",
+    "original": "Two lines — slots",
+    "text": "Two lines — slots"
+  },
+  {
+    "id": "900001:79",
+    "name": "Two-line slots work much like single-line slots and suit more complex information displays.",
+    "original": "Two-line slots work much like single-line slots and suit more complex information displays.",
+    "text": "Two-line slots work much like single-line slots and suit more complex information displays."
+  },
+  {
+    "id": "900001:89",
+    "name": "This longer example demonstrates text wrapping in a two-line cell.",
+    "original": "This longer example demonstrates text wrapping in a two-line cell.",
+    "text": "This longer example demonstrates text wrapping in a two-line cell."
+  },
+  {
+    "id": "900001:182",
+    "name": "Loading",
+    "original": "Loading",
+    "text": "Loading"
+  },
+  {
+    "id": "900001:184",
+    "name": "Local loading",
+    "original": "Local loading",
+    "text": "Local loading"
+  },
+  {
+    "id": "900001:187",
+    "name": "Use the component loading state for requests taking over 500 ms.",
+    "original": "Use the component loading state for requests taking over 500 ms.",
+    "text": "Use the component loading state for requests taking over 500 ms."
+  },
+  {
+    "id": "900001:188",
+    "name": "Keep local loading within the component where possible. Background loading lets users continue other actions, and naviga",
+    "original": "Keep local loading within the component where possible. Background loading lets users continue other actions, and navigating away cancels it. Use a loading mask when interactions must be blocked.",
+    "text": "Keep local loading within the component where possible. Background loading lets users continue other actions, and navigating away cancels it. Use a loading mask when interactions must be blocked."
+  },
+  {
+    "id": "900001:191",
+    "name": "Button loading states",
+    "original": "Button loading states",
+    "text": "Button loading states"
+  },
+  {
+    "id": "900001:198",
+    "name": "Image upload",
+    "original": "Image upload",
+    "text": "Image upload"
+  },
+  {
+    "id": "52:8053",
+    "name": "上传中...",
+    "original": "上传中...",
+    "text": "Uploading…"
+  },
+  {
+    "id": "900001:204",
+    "name": "Switch loading state",
+    "original": "Switch loading state",
+    "text": "Switch loading state"
+  },
+  {
+    "id": "900001:211",
+    "name": "Form loading state",
+    "original": "Form loading state",
+    "text": "Form loading state"
+  },
+  {
+    "id": "900001:213",
+    "name": "Select an object",
+    "original": "Select an object",
+    "text": "Select an object"
+  },
+  {
+    "id": "900001:214",
+    "name": "Show loading while object data is being requested.",
+    "original": "Show loading while object data is being requested.",
+    "text": "Show loading while object data is being requested."
+  },
+  {
+    "id": "900001:217",
+    "name": "Use skeletons for local content that combines text and images.",
+    "original": "Use skeletons for local content that combines text and images.",
+    "text": "Use skeletons for local content that combines text and images."
+  },
+  {
+    "id": "900001:218",
+    "name": "When page sections load at different times, use skeletons for each section. Skeletons also suit smaller blocks of rich c",
+    "original": "When page sections load at different times, use skeletons for each section. Skeletons also suit smaller blocks of rich content that take longer to load.",
+    "text": "When page sections load at different times, use skeletons for each section. Skeletons also suit smaller blocks of rich content that take longer to load."
+  },
+  {
+    "id": "900001:221",
+    "name": "Section-by-section skeleton loading",
+    "original": "Section-by-section skeleton loading",
+    "text": "Section-by-section skeleton loading"
+  },
+  {
+    "id": "900001:225",
+    "name": "Global loading",
+    "original": "Global loading",
+    "text": "Global loading"
+  },
+  {
+    "id": "900001:228",
+    "name": "For requests taking over 500 ms, consider a global loading animation.",
+    "original": "For requests taking over 500 ms, consider a global loading animation.",
+    "text": "For requests taking over 500 ms, consider a global loading animation."
+  },
+  {
+    "id": "900001:229",
+    "name": "Pages and panels that request large amounts of data can use global loading. Use the default component size unless the sc",
+    "original": "Pages and panels that request large amounts of data can use global loading. Use the default component size unless the scenario requires otherwise.",
+    "text": "Pages and panels that request large amounts of data can use global loading. Use the default component size unless the scenario requires otherwise."
+  },
+  {
+    "id": "47:12039",
+    "name": "我是标题",
+    "original": "我是标题",
+    "text": "Title"
+  },
+  {
+    "id": "47:12041",
+    "name": "副标题文本",
+    "original": "副标题文本",
+    "text": "副标题文本"
+  },
+  {
+    "id": "900001:234",
+    "name": "A search query returning a large result set",
+    "original": "A search query returning a large result set",
+    "text": "All items"
+  },
+  {
+    "id": "52:8144",
+    "name": "地址",
+    "original": "地址",
+    "text": "地址"
+  },
+  {
+    "id": "52:8147",
+    "name": "请输入搜索关键词",
+    "original": "请输入搜索关键词",
+    "text": "请输入搜索关键词"
+  },
+  {
+    "id": "52:8149",
+    "name": "取消",
+    "original": "取消",
+    "text": "Cancel"
+  },
+  {
+    "id": "900001:241",
+    "name": "Custom form panel",
+    "original": "Custom form panel",
+    "text": "Form panel"
+  },
+  {
+    "id": "900001:245",
+    "name": "Loading mask",
+    "original": "Loading mask",
+    "text": "Loading mask"
+  },
+  {
+    "id": "900001:248",
+    "name": "Avoid loading masks where possible.",
+    "original": "Avoid loading masks where possible.",
+    "text": "Avoid loading masks where possible."
+  },
+  {
+    "id": "900001:249",
+    "name": "A loading mask disables all interactions, much like blocking global loading, and offers less flexibility than local load",
+    "original": "A loading mask disables all interactions, much like blocking global loading, and offers less flexibility than local loading or loading that allows navigation. It can be considered when delivery time and development resources are extremely limited and a single global loading mechanism is needed.",
+    "text": "A loading mask disables all interactions, much like blocking global loading, and offers less flexibility than local loading or loading that allows navigation. It can be considered when delivery time and development resources are extremely limited and a single global loading mechanism is needed."
+  },
+  {
+    "id": "52:8171",
+    "name": "加载中…",
+    "original": "加载中…",
+    "text": "Loading…"
+  },
+  {
+    "id": "900001:322",
+    "name": "Tips",
+    "original": "Tips",
+    "text": "Tips"
+  },
+  {
+    "id": "900001:324",
+    "name": "Lightweight feedback",
+    "original": "Lightweight feedback",
+    "text": "Lightweight feedback"
+  },
+  {
+    "id": "900001:327",
+    "name": "Toast",
+    "original": "Toast",
+    "text": "Toast"
+  },
+  {
+    "id": "900001:328",
+    "name": "Use a toast for short-lived success, failure or action feedback. It provides lightweight feedback with little interrupti",
+    "original": "Use a toast for short-lived success, failure or action feedback. It provides lightweight feedback with little interruption.",
+    "text": "Use a toast for short-lived success, failure or action feedback. It provides lightweight feedback with little interruption."
+  },
+  {
+    "id": "900001:330",
+    "name": "Message",
+    "original": "Message",
+    "text": "Message"
+  },
+  {
+    "id": "900001:333",
+    "name": "Use popover options to provide helpful guidance.",
+    "original": "Use popover options to provide helpful guidance.",
+    "text": "Use popover options to provide helpful guidance."
+  },
+  {
+    "id": "900001:334",
+    "name": "For complex actions or less discoverable features, popover options can provide lightweight guidance. The component curre",
+    "original": "For complex actions or less discoverable features, popover options can provide lightweight guidance. The component currently supports light and dark themes; custom colors are not yet available and may be added later.",
+    "text": "For complex actions or less discoverable features, popover options can provide lightweight guidance. The component currently supports light and dark themes; custom colors are not yet available and may be added later."
+  },
+  {
+    "id": "900001:337",
+    "name": "Helpful guidance",
+    "original": "Helpful guidance",
+    "text": "Helpful guidance"
+  },
+  {
+    "id": "900001:344",
+    "name": "A short, helpful message",
+    "original": "A short, helpful message",
+    "text": "A short, helpful message"
+  },
+  {
+    "id": "900001:347",
+    "name": "Guidance with custom colors. This is not yet a component option; implement it in code if needed.",
+    "original": "Guidance with custom colors. This is not yet a component option; implement it in code if needed.",
+    "text": "Guidance with custom colors. This is not yet a component option; implement it in code if needed."
+  },
+  {
+    "id": "900001:356",
+    "name": "Feedback requiring attention or interaction",
+    "original": "Feedback requiring attention or interaction",
+    "text": "Feedback requiring attention or interaction"
+  },
+  {
+    "id": "58:9075",
+    "name": "打个响指吧，他说，我们打个共鸣的响指",
+    "original": "打个响指吧，他说，我们打个共鸣的响指",
+    "text": "An example of longer cell text that wraps onto multiple lines."
+  },
+  {
+    "id": "47:11152",
+    "name": "Note description",
+    "original": "Note description",
+    "text": "Note description"
+  },
+  {
+    "id": "900001:98",
+    "name": "From top to bottom: default size and large size.",
+    "original": "From top to bottom: default size and large size.",
+    "text": "From top to bottom: default size and large size."
+  },
+  {
+    "id": "900001:114",
+    "name": "From top to bottom: default, filled, pressed and disabled.",
+    "original": "From top to bottom: default, filled, pressed and disabled.",
+    "text": "From top to bottom: default, filled, pressed and disabled."
+  },
+  {
+    "id": "52:8053",
+    "name": "Uploading…",
+    "original": "Uploading…",
+    "text": "Uploading…"
+  },
+  {
+    "id": "52:8149",
+    "name": "Cancel",
+    "original": "Cancel",
+    "text": "Cancel"
+  },
+  {
+    "id": "52:8171",
+    "name": "Loading…",
+    "original": "Loading…",
+    "text": "Loading…"
+  },
+  {
+    "id": "58:9075",
+    "name": "An example of longer cell text that wraps onto multiple lines.",
+    "original": "An example of longer cell text that wraps onto multiple lines.",
+    "text": "An example of longer cell text that wraps onto multiple lines."
+  }
+]

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" height="24" overflow="visible" preserveAspectRatio="none" style="display: block;" viewBox="0 0 44 24" width="44">
+<path clip-rule="evenodd" d="M12 0C5.37258 0 0 5.37258 0 12C0 18.6274 5.37258 24 12 24H32C38.6274 24 44 18.6274 44 12C44 5.37258 38.6274 0 32 0H12Z" fill="var(--fill-0, #246FE5)" fill-rule="evenodd" id="Switch Background"/>
+</svg>

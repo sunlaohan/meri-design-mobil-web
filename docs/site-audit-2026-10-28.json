@@ -1,0 +1,230 @@
+{
+  "checkedAt": "2026-10-28",
+  "project": "/Users/sunlei/Web/meri-design-mobil-web",
+  "scope": {
+    "routes": 10,
+    "viewportWidths": [
+      1280,
+      1024,
+      768,
+      375,
+      320
+    ],
+    "browserCombinations": 50,
+    "engine": "Chrome",
+    "browserEvidence": "site-optimization-browser.json"
+  },
+  "fixed": [
+    {
+      "id": "history-restore",
+      "priority": "P2",
+      "problem": "浏览器从往返缓存恢复页面后，pagehide 已清理侧导航增强，但 pageshow 未重新安装。",
+      "change": "pagehide 每次清理并重置 ready，pageshow.persisted 重新执行 updatePage。",
+      "file": "src/entry.js",
+      "validation": "修复前返回后目录增强项为 0；修复后连续三次返回均恢复 4 项，最终新目录服务复测同样通过。",
+      "evidence": "site-audit-history.json",
+      "screenshot": "screenshots/audit-back-navigation-fixed.png"
+    },
+    {
+      "id": "copy-typos",
+      "priority": "P3",
+      "problem": "明确的文字、标点与品牌拼写错误。",
+      "replacements": {
+        "组价说明": "组件说明",
+        "使用过程种": "使用过程中",
+        "meiri移动端组件": "Meri移动端组件",
+        "功能模块相对对立": "功能模块相对独立",
+        "数据粘粘性强": "数据黏性强",
+        "从左往右依次为：：": "从左往右依次为：",
+        "需要补充说明说信息层级": "需要补充说明信息层级",
+        "干扰性若": "干扰性弱",
+        "图表库": "图标库",
+        "改样式规范": "该样式规范",
+        "单选/·多选": "单选/多选"
+      },
+      "files": [
+        "src/content/home.json",
+        "src/content/consistency.json",
+        "src/content/usage-specification.json",
+        "src/content/update-log.json"
+      ],
+      "validation": "仅修改 text，保留 original。全部 50 个最终渲染组合未检出上述错字；富文本链接原有索引仍对应【使用指南】。"
+    },
+    {
+      "id": "renamed-directory-server",
+      "problem": "检查期间项目由 meri-design- mobil-web 改名为 meri-design-mobil-web，旧开发进程继续引用原目录并返回 500。",
+      "change": "从新目录重新启动开发服务。",
+      "validation": "新服务完成构建并通过 50 个最终浏览器组合。"
+    },
+    {
+      "id": "mobile-content-gap",
+      "priority": "P1",
+      "title": "手机正文不完整",
+      "details": "中文组件规范桌面 6 节、手机 3 节；中文一致性桌面 18 节、手机 5 节；中文更新日志桌面 30 条、手机 5 条。",
+      "origin": "已用 CUA 对照原站 375px，原站相同。",
+      "files": [
+        "src/design/usage-specification.json",
+        "src/design/consistency.json",
+        "src/design/update-log.json"
+      ],
+      "change": "恢复手机端原有隐藏章节，并适配卡片、示例与正文宽度。",
+      "validation": "中英文手机组件规范均 6 节、一致性均 18 节、更新日志均 30 条，与桌面内容对应。"
+    },
+    {
+      "id": "english-content-gap",
+      "priority": "P2",
+      "title": "英文正文少于中文",
+      "details": "桌面英文组件规范 3 节，中文 6 节；英文一致性 6 节，中文 18 节；英文更新日志也未覆盖全部中文历史。",
+      "origin": "已对照原站，原站相同。",
+      "files": [
+        "src/design/usage-specification-en.json",
+        "src/design/consistency-en.json",
+        "src/design/update-log-en.json"
+      ],
+      "change": "沿用原有设计和中文规范补齐缺失英文内容及其桌面、手机节点。",
+      "validation": "英文组件规范 6 节、一致性 18 节、更新日志 30 条；最终浏览器检测英文正文无中文残留。"
+    },
+    {
+      "id": "directory-content-gap",
+      "priority": "P2",
+      "title": "目录与正文不完全对应",
+      "details": "中英文更新日志目录均缺少最新 2026.08.05；中文一致性正文有“选中效果”，目录未列出。",
+      "origin": "已对照原站，原站相同。",
+      "change": "补齐所有正文目录项，更新日志按 25 个日期分组，并修正目录滚动目标。",
+      "validation": "8 页共 106 个目录项逐项点击通过；2025.04.22 定位同日正文，标题到达滚动容器顶部。"
+    },
+    {
+      "id": "heading-semantics",
+      "priority": "P3",
+      "title": "标题语义可改善",
+      "details": "抽查桌面页面的主要标题由 p/div 渲染，缺少 h1/h2/h3 层级。手机菜单展开按钮的可访问名称也不完整。",
+      "origin": "原始生成渲染结构。",
+      "change": "通过设计数据为主内容、章节和标题添加 main、section、h1/h2 语义；为图片按钮补充中英文名称。",
+      "validation": "文档页各 1 个 main；手机菜单打开、关闭名称及对应语言跳转正常。"
+    },
+    {
+      "id": "side-navigation-state",
+      "priority": "P2",
+      "problem": "侧导航点击仅滚动，选中状态不随点击或阅读位置更新。",
+      "change": "统一点击选中、手动滚动跟随、键盘焦点与长目录自动露出；支持减少动态效果设置并清理所有观察器和监听器。",
+      "files": [
+        "src/behaviors/custom.js",
+        "src/styles/custom.css"
+      ],
+      "validation": "8 页 106 个目录项全部通过，浏览器历史返回恢复选中状态。",
+      "evidence": "site-optimization-navigation.json",
+      "screenshot": "screenshots/optimization-user-guide-desktop.png"
+    }
+  ],
+  "remainingFindings": [
+    {
+      "id": "meos-certificate",
+      "priority": "P2",
+      "title": "禹数 MEOS 外链证书日期异常",
+      "url": "https://meos.shop/",
+      "evidence": {
+        "curl": "SSL certificate problem: certificate has expired",
+        "Chrome": "net::ERR_CERT_DATE_INVALID"
+      },
+      "disposition": "未绕过证书警告、未猜测替换地址；需目标站管理员处理。",
+      "file": "src/content/links.json"
+    }
+  ],
+  "validation": {
+    "build": "npm run check 通过，10 路由、420 资源散列、1810 文本节点、464 交互、450 行为、4 视频引用。",
+    "javascriptSyntax": "src/entry.js、src/behaviors/custom.js 和构建/校验/服务脚本均通过 node --check。",
+    "layout": {
+      "combinations": 50,
+      "horizontalOverflow": 0,
+      "brokenVisibleImages": 0,
+      "remainingCheckedTypos": 0,
+      "wideText": 0,
+      "componentSpecificationNarrowProse": 0,
+      "evidence": "site-optimization-browser.json",
+      "specificationRecheckedAfterFinalPolish": 10
+    },
+    "history": "site-audit-history.json",
+    "sidebar": "8 页 106 个目录项逐项点击通过；选中、目标正文和颜色一致；手动滚动跟随、键盘触发、长目录当前项可见性及历史返回恢复通过。",
+    "mobileMenuAndLocale": "手机中英文菜单展开/关闭均有可访问名称，切换语言到对应页面；原有站内跳转正常。",
+    "heroDrag": {
+      "dx": 50,
+      "dy": 30,
+      "finalOpacity": 1
+    },
+    "footerHover": {
+      "samples": 45,
+      "hoverHeld": true,
+      "opacityValues": [
+        1
+      ],
+      "wrapperY": [
+        450,
+        450
+      ],
+      "labelTranslateY": -2
+    },
+    "lightbox": {
+      "imageCountBefore": 10,
+      "open": 11,
+      "afterEscape": 10
+    },
+    "video1": {
+      "duration": 50.786667,
+      "playingObserved": true,
+      "timeAdvancedTo": 13.0426,
+      "seekTo": 22.3695,
+      "pauseConfirmed": true,
+      "readyState": 4
+    },
+    "video2": {
+      "duration": 18.7,
+      "playingObserved": true,
+      "readyState": 4
+    },
+    "videoRange": {
+      "status": 206,
+      "contentRange": "bytes 0-1023/4529966",
+      "contentLength": 1024
+    },
+    "unknownRoute": 404,
+    "externalLinks": {
+      "head200": [
+        "dev.meos.center",
+        "meri-mobile.netlify.app",
+        "www.persagy.com",
+        "www.yushu.biz"
+      ],
+      "feishu": "HEAD 返回 404，但浏览器实际可正常打开 MEOS 下载说明；未判为坏链。",
+      "figma": "HEAD 返回 403/404，可能涉及权限或反爬，未逐项确认，不据此判失效。"
+    },
+    "limits": "直接修改并验证当前原项目。未进行线上部署；外部 MEOS 站点证书需其管理员处理。浏览器验证不能证明所有 vendor 动画帧与所有浏览器均无问题。",
+    "contentParity": {
+      "userGuideSections": 4,
+      "componentSpecificationSections": 6,
+      "consistencySections": 18,
+      "updateLogEntries": 30,
+      "updateLogDirectoryDates": 25,
+      "variants": "中文/英文，桌面/手机"
+    },
+    "englishConsistencyMedia": {
+      "videos": 2,
+      "readyState": [
+        4,
+        4
+      ],
+      "durations": [
+        50.786667,
+        18.7
+      ],
+      "error": null
+    },
+    "finalHistory": {
+      "route": "/update-log-en",
+      "directoryItems": 25,
+      "selected": "2025.04.22",
+      "targetHeading": "2025.04.22",
+      "targetTop": 88
+    }
+  },
+  "status": "已直接优化当前原项目，构建与浏览器回归通过；仅外部站点证书问题待其管理员处理。"
+}

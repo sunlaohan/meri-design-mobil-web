@@ -1,0 +1,272 @@
+[
+  {
+    "page": "consistency-desktop",
+    "size": [
+      1280,
+      720
+    ],
+    "changedPixels": 0,
+    "changedPercent": 0.0,
+    "meanChannelError": 0.0,
+    "differenceBounds": null
+  },
+  {
+    "page": "consistency-en-desktop",
+    "size": [
+      1280,
+      720
+    ],
+    "changedPixels": 0,
+    "changedPercent": 0.0,
+    "meanChannelError": 0.0,
+    "differenceBounds": null
+  },
+  {
+    "page": "consistency-en-mobile",
+    "size": [
+      375,
+      812
+    ],
+    "changedPixels": 0,
+    "changedPercent": 0.0,
+    "meanChannelError": 0.0,
+    "differenceBounds": null
+  },
+  {
+    "page": "consistency-mobile",
+    "size": [
+      375,
+      812
+    ],
+    "changedPixels": 69,
+    "changedPercent": 0.02266,
+    "meanChannelError": 0.000504,
+    "differenceBounds": [
+      168,
+      24,
+      192,
+      48
+    ]
+  },
+  {
+    "page": "home-desktop",
+    "size": [
+      1280,
+      720
+    ],
+    "changedPixels": 212913,
+    "changedPercent": 23.102539,
+    "meanChannelError": 0.253879,
+    "differenceBounds": [
+      0,
+      376,
+      1280,
+      577
+    ]
+  },
+  {
+    "page": "home-en-desktop",
+    "size": [
+      1280,
+      720
+    ],
+    "changedPixels": 0,
+    "changedPercent": 0.0,
+    "meanChannelError": 0.0,
+    "differenceBounds": null
+  },
+  {
+    "page": "home-en-mobile",
+    "size": [
+      375,
+      812
+    ],
+    "changedPixels": 0,
+    "changedPercent": 0.0,
+    "meanChannelError": 0.0,
+    "differenceBounds": null
+  },
+  {
+    "page": "home-mobile",
+    "size": [
+      375,
+      812
+    ],
+    "changedPixels": 44,
+    "changedPercent": 0.01445,
+    "meanChannelError": 0.000311,
+    "differenceBounds": [
+      184,
+      24,
+      192,
+      32
+    ]
+  },
+  {
+    "page": "update-log-desktop",
+    "size": [
+      1280,
+      720
+    ],
+    "changedPixels": 242777,
+    "changedPercent": 26.34299,
+    "meanChannelError": 0.580536,
+    "differenceBounds": [
+      400,
+      315,
+      1200,
+      720
+    ]
+  },
+  {
+    "page": "update-log-en-desktop",
+    "size": [
+      1280,
+      720
+    ],
+    "changedPixels": 242777,
+    "changedPercent": 26.34299,
+    "meanChannelError": 0.580536,
+    "differenceBounds": [
+      400,
+      315,
+      1200,
+      720
+    ]
+  },
+  {
+    "page": "update-log-en-mobile",
+    "size": [
+      375,
+      812
+    ],
+    "changedPixels": 47474,
+    "changedPercent": 15.590805,
+    "meanChannelError": 0.174018,
+    "differenceBounds": [
+      16,
+      351,
+      352,
+      812
+    ]
+  },
+  {
+    "page": "update-log-mobile",
+    "size": [
+      375,
+      812
+    ],
+    "changedPixels": 69,
+    "changedPercent": 0.02266,
+    "meanChannelError": 0.000504,
+    "differenceBounds": [
+      168,
+      24,
+      192,
+      48
+    ]
+  },
+  {
+    "page": "usage-specification-desktop",
+    "size": [
+      1280,
+      720
+    ],
+    "changedPixels": 0,
+    "changedPercent": 0.0,
+    "meanChannelError": 0.0,
+    "differenceBounds": null
+  },
+  {
+    "page": "usage-specification-en-desktop",
+    "size": [
+      1280,
+      720
+    ],
+    "changedPixels": 0,
+    "changedPercent": 0.0,
+    "meanChannelError": 0.0,
+    "differenceBounds": null
+  },
+  {
+    "page": "usage-specification-en-mobile",
+    "size": [
+      375,
+      812
+    ],
+    "changedPixels": 0,
+    "changedPercent": 0.0,
+    "meanChannelError": 0.0,
+    "differenceBounds": null
+  },
+  {
+    "page": "usage-specification-mobile",
+    "size": [
+      375,
+      812
+    ],
+    "changedPixels": 69,
+    "changedPercent": 0.02266,
+    "meanChannelError": 0.000504,
+    "differenceBounds": [
+      168,
+      24,
+      192,
+      48
+    ]
+  },
+  {
+    "page": "user-guide-desktop",
+    "size": [
+      1280,
+      720
+    ],
+    "changedPixels": 0,
+    "changedPercent": 0.0,
+    "meanChannelError": 0.0,
+    "differenceBounds": null
+  },
+  {
+    "page": "user-guide-en-desktop",
+    "size": [
+      1280,
+      720
+    ],
+    "changedPixels": 0,
+    "changedPercent": 0.0,
+    "meanChannelError": 0.0,
+    "differenceBounds": null
+  },
+  {
+    "page": "user-guide-en-mobile",
+    "size": [
+      375,
+      812
+    ],
+    "changedPixels": 36558,
+    "changedPercent": 12.005911,
+    "meanChannelError": 0.588383,
+    "differenceBounds": [
+      15,
+      680,
+      353,
+      812
+    ]
+  },
+  {
+    "page": "user-guide-mobile",
+    "size": [
+      375,
+      812
+    ],
+    "changedPixels": 69,
+    "changedPercent": 0.02266,
+    "meanChannelError": 0.000504,
+    "differenceBounds": [
+      168,
+      24,
+      192,
+      48
+    ]
+  }
+]

@@ -1,0 +1,109 @@
+/*
+ * Local style changes belong here. The original generated styles are kept so
+ * the unmodified site renders with exactly the same layout and breakpoints.
+ * Prefer selectors scoped with body[data-page="user-guide"] or an existing
+ * element class. The shared font below is the user's site-wide preference.
+ */
+
+:root {
+  --site-font-family: "PingFang SC", "PingFang TC", system-ui, -apple-system,
+    BlinkMacSystemFont, "Segoe UI", "Microsoft YaHei", Arial, sans-serif;
+  --default-font-family: var(--site-font-family);
+}
+
+/* Override the generated per-node fonts, including nested rich text and UI. */
+html,
+body,
+#container,
+#container *,
+#container *::before,
+#container *::after {
+  font-family: var(--site-font-family) !important;
+}
+
+/* The imported footer uses .css-8crwl3; .css-g7h9eo is each link's
+ * stationary wrapper. Keep its hit area and opacity stable instead of letting
+ * the vendor hover animation fade the whole link. Only the child label floats.
+ */
+#container .css-8crwl3 .css-g7h9eo {
+  opacity: 1 !important;
+  transform: none !important;
+}
+
+#container .css-8crwl3 .css-g7h9eo > .textContents,
+#container .css-8crwl3 [role="button"] .css-59zsx9 {
+  transform: translateY(0);
+  transition: transform 180ms ease-out, color 180ms ease-out,
+    -webkit-text-fill-color 180ms ease-out;
+}
+
+@media (hover: hover) and (pointer: fine) {
+  #container .css-8crwl3 .css-g7h9eo:hover > .textContents,
+  #container .css-8crwl3 [role="button"]:hover .css-59zsx9 {
+    color: #fff;
+    -webkit-text-fill-color: #fff;
+    transform: translateY(-2px);
+  }
+}
+
+#container .css-8crwl3 .css-g7h9eo:focus-within > .textContents,
+#container .css-8crwl3 [role="button"]:focus-visible .css-59zsx9 {
+  color: #fff;
+  -webkit-text-fill-color: #fff;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  #container .css-8crwl3 .css-g7h9eo > .textContents,
+  #container .css-8crwl3 [role="button"] .css-59zsx9 {
+    transition: none;
+    transform: none !important;
+  }
+}
+
+/* Keep long directories reachable while the article scrolls independently. */
+#container [data-meri-side-nav] {
+  max-height: var(--side-nav-height);
+  overflow-y: auto;
+  overscroll-behavior-y: contain;
+  scrollbar-width: thin;
+}
+
+#container button[data-meri-side-nav-item] {
+  flex-shrink: 0;
+  min-height: 52px;
+  height: auto;
+  background-color: transparent;
+  transition: background-color 160ms ease;
+}
+
+#container button[data-meri-side-nav-item] .textContents,
+#container button[data-meri-side-nav-item] .textContents * {
+  color: #626c78;
+  -webkit-text-fill-color: #626c78;
+}
+
+#container button[data-meri-side-nav-item]:hover {
+  background-color: #f7f8fa;
+}
+
+#container button[data-meri-side-nav-item][aria-current="location"] {
+  background-color: #f1f4f6;
+}
+
+#container button[data-meri-side-nav-item][aria-current="location"] .textContents,
+#container button[data-meri-side-nav-item][aria-current="location"] .textContents * {
+  color: #1b2129;
+  -webkit-text-fill-color: #1b2129;
+}
+
+#container button[data-meri-side-nav-item]:focus-visible {
+  outline: 2px solid #2674ff;
+  outline-offset: -2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  #container button[data-meri-side-nav-item] {
+    transition: none;
+  }
+}
+

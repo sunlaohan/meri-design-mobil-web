@@ -1,0 +1,17 @@
+{
+  "origin": "https://www.meridesign.cn",
+  "importedAt": "2026-10-28",
+  "bundleId": "57601274-0046-46ba-bd25-2596db6a99b5",
+  "scenes": {
+    "user-guide-en": "cd209a7653c804626de24441f7d6b85021b37ed105d6d8fa8cc5b0fd2d5ee05c",
+    "user-guide": "0c3bae7fa1f0ebe92f51813a4560e71277c9083617ebf79a26a4186a59d117c1",
+    "home": "116a7cfd6ee0a6413aaa8c1f630554970f25302d42ce1fe5d69acfd22e22b29e",
+    "home-en": "0ebcebebd80776eef32b9d6e6e249d22a7cb48635fb74273a03f1ba45f4fc845",
+    "usage-specification": "f09d9a4a77c9af31eec8a907b6c6634db560897d2e6c1dd0e31ca16ba73c11ae",
+    "consistency": "f9b4e64b4fef5b7a5ec3e8f912f77eb32c33a44563f58b4277311a3a1b3ac181",
+    "usage-specification-en": "a90af3267d886b7c4e213f56af8a4b1954c7009af8854538f948c334fc4a4fe0",
+    "consistency-en": "678ccfdcee1b3187a222da6153b537f22bd46fe7d6f6b6a075cfb88bd98464e1",
+    "update-log-en": "aa2f4486a2dbdb9b91aa6b4e8dd460483178566940daab742881f13750e269eb",
+    "update-log": "35b4e948f9dbf66409943a788090adf9a50eb9b49773c874e4beacca9a4ef503"
+  }
+}

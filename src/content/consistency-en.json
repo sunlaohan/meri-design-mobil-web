@@ -1,0 +1,506 @@
+[
+  {
+    "id": "override",
+    "name": "Consistency",
+    "original": "Consistency",
+    "text": "Consistency"
+  },
+  {
+    "id": "150:7776",
+    "name": "中",
+    "original": "中",
+    "text": "中"
+  },
+  {
+    "id": "150:7774",
+    "name": "En",
+    "original": "En",
+    "text": "En"
+  },
+  {
+    "id": "28:140",
+    "name": "导航文本",
+    "original": "导航文本",
+    "text": "导航文本"
+  },
+  {
+    "id": "9:590",
+    "name": "Meri Design",
+    "original": "Meri Design",
+    "text": "Meri Design"
+  },
+  {
+    "id": "override",
+    "name": "Usage Guide",
+    "original": "Usage Guide",
+    "text": "Usage Guide"
+  },
+  {
+    "id": "28:277",
+    "name": "标题",
+    "original": "标题",
+    "text": "标题"
+  },
+  {
+    "id": "151:17858",
+    "name": "Buttons, forms, and other elements in the mobile component all provide a press effect. Unless necessary, please use components to trigger actions to ensure the press effect. If you need to customize buttons or other triggering controls, you must design a press state (and show it in the design documentation; if the press state is not mentioned, developers generally will not add it proactively); Instant feedback controls (switches, radio buttons, checkboxes, scroll wheels, sliders, expand/collapse, etc.) may not provide a press effect; Text that triggers a click also needs to provide a press state.",
+    "original": "Buttons, forms, and other elements in the mobile component all provide a press effect. Unless necessary, please use components to trigger actions to ensure the press effect. If you need to customize buttons or other triggering controls, you must design a press state (and show it in the design documentation; if the press state is not mentioned, developers generally will not add it proactively);\nInstant feedback controls (switches, radio buttons, checkboxes, scroll wheels, sliders, expand/collapse, etc.) may not provide a press effect;\nText that triggers a click also needs to provide a press state.",
+    "text": "Buttons, forms, and other elements in the mobile component all provide a press effect. Unless necessary, please use components to trigger actions to ensure the press effect. If you need to customize buttons or other triggering controls, you must design a press state (and show it in the design documentation; if the press state is not mentioned, developers generally will not add it proactively);\nInstant feedback controls (switches, radio buttons, checkboxes, scroll wheels, sliders, expand/collapse, etc.) may not provide a press effect;\nText that triggers a click also needs to provide a press state."
+  },
+  {
+    "id": "151:17857",
+    "name": "Press Effect",
+    "original": "Press Effect",
+    "text": "Press Effect"
+  },
+  {
+    "id": "151:17852",
+    "name": "For example: the use of the 16-size small blue label in the list of abnormal events and the 14-size small blue label in the details of measures.",
+    "original": "For example: the use of the 16-size small blue label in the list of abnormal events and the 14-size small blue label in the details of measures.",
+    "text": "For example: the use of the 16-size small blue label in the list of abnormal events and the 14-size small blue label in the details of measures."
+  },
+  {
+    "id": "151:17848",
+    "name": "Small Blue Label",
+    "original": "Small Blue Label",
+    "text": "Small Blue Label"
+  },
+  {
+    "id": "151:17837",
+    "name": "The card content area has a standard spacing of 12px from the top navigation bar. To facilitate alignment with other component elements, the card content area has a standard left and right spacing of 16px. The standard spacing between cards is 6px (for special scenarios, spacings of 8, 12, or 16 can be chosen).",
+    "original": "The card content area has a standard spacing of 12px from the top navigation bar. To facilitate alignment with other component elements, the card content area has a standard left and right spacing of 16px. The standard spacing between cards is 6px (for special scenarios, spacings of 8, 12, or 16 can be chosen).",
+    "text": "The card content area has a standard spacing of 12px from the top navigation bar. To facilitate alignment with other component elements, the card content area has a standard left and right spacing of 16px. The standard spacing between cards is 6px (for special scenarios, spacings of 8, 12, or 16 can be chosen)."
+  },
+  {
+    "id": "151:17831",
+    "name": "The normal entry/exit of the drill-down page uses horizontal movement, while the upper-left close icon should use vertical movement for entry/exit. Expanding and collapsing should have easing effects, and the dynamic panel can simply follow the component effects. The app has native page micro-interaction styles for both iOS and Android; if the functionality involves native page construction, the corresponding developers should be contacted for iOS/Android interaction effects. The features built on H5 pages should try to utilize components, which come with built-in micro-interaction effects. If the development implementation lacks effects, they should familiarize themselves with the component usage instructions.",
+    "original": "The normal entry/exit of the drill-down page uses horizontal movement, while the upper-left close icon should use vertical movement for entry/exit. Expanding and collapsing should have easing effects, and the dynamic panel can simply follow the component effects. The app has native page micro-interaction styles for both iOS and Android; if the functionality involves native page construction, the corresponding developers should be contacted for iOS/Android interaction effects. The features built on H5 pages should try to utilize components, which come with built-in micro-interaction effects. If the development implementation lacks effects, they should familiarize themselves with the component usage instructions.",
+    "text": "The normal entry/exit of the drill-down page uses horizontal movement, while the upper-left close icon should use vertical movement for entry/exit. Expanding and collapsing should have easing effects, and the dynamic panel can simply follow the component effects. The app has native page micro-interaction styles for both iOS and Android; if the functionality involves native page construction, the corresponding developers should be contacted for iOS/Android interaction effects. The features built on H5 pages should try to utilize components, which come with built-in micro-interaction effects. If the development implementation lacks effects, they should familiarize themselves with the component usage instructions."
+  },
+  {
+    "id": "151:17830",
+    "name": "Micro-interaction",
+    "original": "Micro-interaction",
+    "text": "Micro-interaction"
+  },
+  {
+    "id": "151:17828",
+    "name": "For example: In inspection work orders, clicking on a single task record result, although the data is highly sticky, the related triggering operations are too numerous to be supported only through an independent page.",
+    "original": "For example: In inspection work orders, clicking on a single task record result, although the data is highly sticky, the related triggering operations are too numerous to be supported only through an independent page.",
+    "text": "For example: In inspection work orders, clicking on a single task record result, although the data is highly sticky, the related triggering operations are too numerous to be supported only through an independent page."
+  },
+  {
+    "id": "151:17842",
+    "name": "Font Size",
+    "original": "Font Size",
+    "text": "Font Size"
+  },
+  {
+    "id": "151:17822",
+    "name": "For example: In asset retrieval, there may be multi-level drilling, so application structure encapsulation is performed.",
+    "original": "For example: In asset retrieval, there may be multi-level drilling, so application structure encapsulation is performed.",
+    "text": "For example: In asset retrieval, there may be multi-level drilling, so application structure encapsulation is performed."
+  },
+  {
+    "id": "151:17840",
+    "name": "For example: the spacing of card modules in inspection work orders.",
+    "original": "For example: the spacing of card modules in inspection work orders.",
+    "text": "For example: the spacing of card modules in inspection work orders."
+  },
+  {
+    "id": "override",
+    "name": "按压效果",
+    "original": "按压效果",
+    "text": "按压效果"
+  },
+  {
+    "id": "override",
+    "name": "设计组件变量说明",
+    "original": "设计组件变量说明",
+    "text": "设计组件变量说明"
+  },
+  {
+    "id": "override",
+    "name": "设计调用",
+    "original": "设计调用",
+    "text": "设计调用"
+  },
+  {
+    "id": "47:10391",
+    "name": "14/Bold",
+    "original": "Rag 123",
+    "text": "Rag 123"
+  },
+  {
+    "id": "151:17846",
+    "name": "For example: the font sizes used for the small blue label, body text, and clickable text in the issue description of the troubleshooting work order.",
+    "original": "For example: the font sizes used for the small blue label, body text, and clickable text in the issue description of the troubleshooting work order.",
+    "text": "For example: the font sizes used for the small blue label, body text, and clickable text in the issue description of the troubleshooting work order."
+  },
+  {
+    "id": "override",
+    "name": "Usage Specifications",
+    "original": "Usage Specifications",
+    "text": "Usage Specifications"
+  },
+  {
+    "id": "override",
+    "name": " 单个组件使用说明",
+    "original": " 单个组件使用说明",
+    "text": " 单个组件使用说明"
+  },
+  {
+    "id": "151:17849",
+    "name": "The mobile component provides two font sizes for the small blue label: 14 and 16. In most scenarios, the small blue label is used as a primary heading (16). In some cases, it may be necessary to categorize secondary headings under the primary heading using the small blue label at size 14; The text of the small blue label should align with the content below, which can be left-aligned with the image below; To ensure better spacing consistency, the small blue label header component can be used; The text of the small blue label can wrap and be truncated if it exceeds the limit, with wrapping needing to be top-aligned;.",
+    "original": "The mobile component provides two font sizes for the small blue label: 14 and 16. In most scenarios, the small blue label is used as a primary heading (16). In some cases, it may be necessary to categorize secondary headings under the primary heading using the small blue label at size 14;\nThe text of the small blue label should align with the content below, which can be left-aligned with the image below;\nTo ensure better spacing consistency, the small blue label header component can be used;\nThe text of the small blue label can wrap and be truncated if it exceeds the limit, with wrapping needing to be top-aligned;.",
+    "text": "The mobile component provides two font sizes for the small blue label: 14 and 16. In most scenarios, the small blue label is used as a primary heading (16). In some cases, it may be necessary to categorize secondary headings under the primary heading using the small blue label at size 14;\nThe text of the small blue label should align with the content below, which can be left-aligned with the image below;\nTo ensure better spacing consistency, the small blue label header component can be used;\nThe text of the small blue label can wrap and be truncated if it exceeds the limit, with wrapping needing to be top-aligned;."
+  },
+  {
+    "id": "151:17816",
+    "name": "Non-application page hierarchy should not exceed 5 levels; panel hierarchy should not exceed 2 layers (content can be expanded through left-right interactions within the panel); there is no limit on the number of hierarchy levels for pages encapsulated within the application; for requirements with relatively opposing functional modules, complex information dimensions, and multiple secondary trigger operations, it is recommended to use independent pages. For requirements that involve high viscosity data interaction with the current page (such as real-time viewing, data entry, and data echoing), dynamic panels are recommended.",
+    "original": "Non-application page hierarchy should not exceed 5 levels; panel hierarchy should not exceed 2 layers (content can be expanded through left-right interactions within the panel); there is no limit on the number of hierarchy levels for pages encapsulated within the application; for requirements with relatively opposing functional modules, complex information dimensions, and multiple secondary trigger operations, it is recommended to use independent pages. For requirements that involve high viscosity data interaction with the current page (such as real-time viewing, data entry, and data echoing), dynamic panels are recommended.",
+    "text": "Non-application page hierarchy should not exceed 5 levels; panel hierarchy should not exceed 2 layers (content can be expanded through left-right interactions within the panel); there is no limit on the number of hierarchy levels for pages encapsulated within the application; for requirements with relatively opposing functional modules, complex information dimensions, and multiple secondary trigger operations, it is recommended to use independent pages. For requirements that involve high viscosity data interaction with the current page (such as real-time viewing, data entry, and data echoing), dynamic panels are recommended."
+  },
+  {
+    "id": "28:249",
+    "name": "一级标题",
+    "original": "Ag",
+    "text": "Ag"
+  },
+  {
+    "id": "151:17825",
+    "name": "For example: In the scenario of executing troubleshooting work orders, where functionality is independent, information dimensions are complex, and there are many triggering interactions, a page is used. Adding the reason for the issue requires real-time echoing to the execution page, hence a panel is used.",
+    "original": "For example: In the scenario of executing troubleshooting work orders, where functionality is independent, information dimensions are complex, and there are many triggering interactions, a page is used. Adding the reason for the issue requires real-time echoing to the execution page, hence a panel is used.",
+    "text": "For example: In the scenario of executing troubleshooting work orders, where functionality is independent, information dimensions are complex, and there are many triggering interactions, a page is used. Adding the reason for the issue requires real-time echoing to the execution page, hence a panel is used."
+  },
+  {
+    "id": "151:17836",
+    "name": "Spacing",
+    "original": "Spacing",
+    "text": "Spacing"
+  },
+  {
+    "id": "151:17861",
+    "name": "The mobile components all provide a complete press state (instant controls do not have a press state).",
+    "original": "The mobile components all provide a complete press state (instant controls do not have a press state).",
+    "text": "The mobile components all provide a complete press state (instant controls do not have a press state)."
+  },
+  {
+    "id": "151:17819",
+    "name": "For example: In the process of troubleshooting, the option to select measures for [Add Others] provides a dual-layer panel and left-right interaction handling.",
+    "original": "For example: In the process of troubleshooting, the option to select measures for [Add Others] provides a dual-layer panel and left-right interaction handling.",
+    "text": "For example: In the process of troubleshooting, the option to select measures for [Add Others] provides a dual-layer panel and left-right interaction handling."
+  },
+  {
+    "id": "151:17710",
+    "name": "You can choose an appropriate press handling method based on the specific style of the triggering control.",
+    "original": "You can choose an appropriate press handling method based on the specific style of the triggering control.",
+    "text": "You can choose an appropriate press handling method based on the specific style of the triggering control."
+  },
+  {
+    "id": "151:17843",
+    "name": "To ensure a more stable display effect, the font on mobile devices follows the system font of the device, and there is no need to separately deliver it to developers (the design can use PingFang for design). The primary title text uses a bold size of 16 (higher-level titles in other scenarios can have custom sizes). The secondary title is 14 bold, and the general body text is 14 (visual hierarchy can be distinguished by color). Detail supplementary text can use size 12, and bottom menu text can use size 10 (the smallest text). Clickable and emphasized text can be bolded or visually guided through the use of penetrating icons.",
+    "original": "To ensure a more stable display effect, the font on mobile devices follows the system font of the device, and there is no need to separately deliver it to developers (the design can use PingFang for design). The primary title text uses a bold size of 16 (higher-level titles in other scenarios can have custom sizes). The secondary title is 14 bold, and the general body text is 14 (visual hierarchy can be distinguished by color). Detail supplementary text can use size 12, and bottom menu text can use size 10 (the smallest text). Clickable and emphasized text can be bolded or visually guided through the use of penetrating icons.",
+    "text": "To ensure a more stable display effect, the font on mobile devices follows the system font of the device, and there is no need to separately deliver it to developers (the design can use PingFang for design). The primary title text uses a bold size of 16 (higher-level titles in other scenarios can have custom sizes). The secondary title is 14 bold, and the general body text is 14 (visual hierarchy can be distinguished by color). Detail supplementary text can use size 12, and bottom menu text can use size 10 (the smallest text). Clickable and emphasized text can be bolded or visually guided through the use of penetrating icons."
+  },
+  {
+    "id": "override",
+    "name": "Font size",
+    "original": "Font size",
+    "text": "Font size"
+  },
+  {
+    "id": "151:17701",
+    "name": "For example: in the inspection work order, the technician needs to view the full equipment name, which should be handled with wrapping.",
+    "original": "For example: in the inspection work order, the technician needs to view the full equipment name, which should be handled with wrapping.",
+    "text": "For example: in the inspection work order, the technician needs to view the full equipment name, which should be handled with wrapping."
+  },
+  {
+    "id": "override",
+    "name": "Small blue label",
+    "original": "Small blue label",
+    "text": "Small blue label"
+  },
+  {
+    "id": "override",
+    "name": "Press effect",
+    "original": "Press effect",
+    "text": "Press effect"
+  },
+  {
+    "id": "151:17661",
+    "name": "Page Hierarchy",
+    "original": "Page Hierarchy",
+    "text": "Page Hierarchy"
+  },
+  {
+    "id": "override",
+    "name": "dark",
+    "original": "dark",
+    "text": "dark"
+  },
+  {
+    "id": "override",
+    "name": "any",
+    "original": "any",
+    "text": "any"
+  },
+  {
+    "id": "override",
+    "name": "instant",
+    "original": "instant",
+    "text": "instant"
+  },
+  {
+    "id": "151:17680",
+    "name": "You can view the micro-interaction demonstration video above.",
+    "original": "You can view the micro-interaction demonstration video above.",
+    "text": "You can view the micro-interaction demonstration video above."
+  },
+  {
+    "id": "override",
+    "name": "开发模式下的使用说明",
+    "original": "开发模式下的使用说明",
+    "text": "开发模式下的使用说明"
+  },
+  {
+    "id": "override",
+    "name": "小蓝标",
+    "original": "小蓝标",
+    "text": "小蓝标"
+  },
+  {
+    "id": "override",
+    "name": "Page hierarchy",
+    "original": "Page hierarchy",
+    "text": "Page hierarchy"
+  },
+  {
+    "id": "900001:416",
+    "name": "Selection feedback",
+    "original": "Selection feedback",
+    "text": "Selection feedback"
+  },
+  {
+    "id": "900001:417",
+    "name": "Selection feedback varies by component. Use the following examples as a reference.",
+    "original": "Selection feedback varies by component. Use the following examples as a reference.",
+    "text": "Selection feedback varies by component. Use the following examples as a reference."
+  },
+  {
+    "id": "900001:420",
+    "name": "Examples of selection feedback across controls.",
+    "original": "Examples of selection feedback across controls.",
+    "text": "Examples of selection feedback across controls."
+  },
+  {
+    "id": "900001:428",
+    "name": "Single / Multiple selection",
+    "original": "Single / Multiple selection",
+    "text": "Single / Multiple selection"
+  },
+  {
+    "id": "900001:429",
+    "name": "For three or fewer short options, consider showing radio cells directly. Use a selection panel in other cases. For more ",
+    "original": "For three or fewer short options, consider showing radio cells directly. Use a selection panel in other cases.\nFor more than six options in a multiple-selection panel or page, use the bottom selection action bar.",
+    "text": "For three or fewer short options, consider showing radio cells directly. Use a selection panel in other cases.\nFor more than six options in a multiple-selection panel or page, use the bottom selection action bar."
+  },
+  {
+    "id": "900001:432",
+    "name": "Show a small number of short options directly.",
+    "original": "Show a small number of short options directly.",
+    "text": "Show a small number of short options directly."
+  },
+  {
+    "id": "900001:435",
+    "name": "Example: object selection in troubleshooting work orders supports the bottom selection action bar.",
+    "original": "Example: object selection in troubleshooting work orders supports the bottom selection action bar.",
+    "text": "Example: object selection in troubleshooting work orders supports the bottom selection action bar."
+  },
+  {
+    "id": "900001:446",
+    "name": "Touch targets",
+    "original": "Touch targets",
+    "text": "Touch targets"
+  },
+  {
+    "id": "900001:447",
+    "name": "In a 375 px mobile design, touch targets should generally be at least 24 × 24 px. Increase small touch targets with a tr",
+    "original": "In a 375 px mobile design, touch targets should generally be at least 24 × 24 px.\nIncrease small touch targets with a transparent container where necessary.\nWhen space is limited, make touch targets as large as the available space allows.",
+    "text": "In a 375 px mobile design, touch targets should generally be at least 24 × 24 px.\nIncrease small touch targets with a transparent container where necessary.\nWhen space is limited, make touch targets as large as the available space allows."
+  },
+  {
+    "id": "900001:450",
+    "name": "Example: touch targets in inspection work orders and incident reports.",
+    "original": "Example: touch targets in inspection work orders and incident reports.",
+    "text": "Example: touch targets in inspection work orders and incident reports."
+  },
+  {
+    "id": "900001:458",
+    "name": "Keyboard activation",
+    "original": "Keyboard activation",
+    "text": "Keyboard activation"
+  },
+  {
+    "id": "900001:459",
+    "name": "When an input or search field is required for the next step, focus it and open the keyboard on entry. For actions such a",
+    "original": "When an input or search field is required for the next step, focus it and open the keyboard on entry.\nFor actions such as Search or Save, use the keyboard action key where possible to reduce extra taps.\nSupport moving between multiple inputs with the keyboard.",
+    "text": "When an input or search field is required for the next step, focus it and open the keyboard on entry.\nFor actions such as Search or Save, use the keyboard action key where possible to reduce extra taps.\nSupport moving between multiple inputs with the keyboard."
+  },
+  {
+    "id": "900001:462",
+    "name": "Examples: autofocus for custom inspection inputs, a confirmation action for custom locations, and keyboard navigation be",
+    "original": "Examples: autofocus for custom inspection inputs, a confirmation action for custom locations, and keyboard navigation between parameter fields.",
+    "text": "Examples: autofocus for custom inspection inputs, a confirmation action for custom locations, and keyboard navigation between parameter fields."
+  },
+  {
+    "id": "900001:470",
+    "name": "Data requests",
+    "original": "Data requests",
+    "text": "Data requests"
+  },
+  {
+    "id": "900001:471",
+    "name": "Show a loading indicator for requests taking over 500 ms. For slow local requests, use component loading states or skele",
+    "original": "Show a loading indicator for requests taking over 500 ms.\nFor slow local requests, use component loading states or skeletons.\nFor slow page-wide requests, use a global loading state.",
+    "text": "Show a loading indicator for requests taking over 500 ms.\nFor slow local requests, use component loading states or skeletons.\nFor slow page-wide requests, use a global loading state."
+  },
+  {
+    "id": "900001:474",
+    "name": "Examples: button loading during work order submission and local loading during parameter calculations.",
+    "original": "Examples: button loading during work order submission and local loading during parameter calculations.",
+    "text": "Examples: button loading during work order submission and local loading during parameter calculations."
+  },
+  {
+    "id": "900001:477",
+    "name": "Examples: global loading when opening a troubleshooting work order or searching for an assignee.",
+    "original": "Examples: global loading when opening a troubleshooting work order or searching for an assignee.",
+    "text": "Examples: global loading when opening a troubleshooting work order or searching for an assignee."
+  },
+  {
+    "id": "900001:488",
+    "name": "Swipe back",
+    "original": "Swipe back",
+    "text": "Swipe back"
+  },
+  {
+    "id": "900001:489",
+    "name": "Pages with a back arrow should support swiping inward from the left edge to return. This currently depends on the native",
+    "original": "Pages with a back arrow should support swiping inward from the left edge to return. This currently depends on the native framework; include the requirement in the design notes.",
+    "text": "Pages with a back arrow should support swiping inward from the left edge to return. This currently depends on the native framework; include the requirement in the design notes."
+  },
+  {
+    "id": "900001:492",
+    "name": "Swipe inward from the left edge to return to the previous page.",
+    "original": "Swipe inward from the left edge to return to the previous page.",
+    "text": "Swipe inward from the left edge to return to the previous page."
+  },
+  {
+    "id": "900001:500",
+    "name": "Pull to refresh / Load more",
+    "original": "Pull to refresh / Load more",
+    "text": "Pull to refresh / Load more"
+  },
+  {
+    "id": "900001:501",
+    "name": "Design and development components are available for pull to refresh. Refer developers to the linked component documentat",
+    "original": "Design and development components are available for pull to refresh. Refer developers to the linked component documentation for the complete interaction.\nThere is no single fixed style for infinite loading; use a loading control alone or with text.\nWhen the end is reached, show a message such as “No more results” where appropriate. The loading component supports this.",
+    "text": "Design and development components are available for pull to refresh. Refer developers to the linked component documentation for the complete interaction.\nThere is no single fixed style for infinite loading; use a loading control alone or with text.\nWhen the end is reached, show a message such as “No more results” where appropriate. The loading component supports this."
+  },
+  {
+    "id": "900001:504",
+    "name": "The library provides refresh and loading components. Several refresh patterns are currently supported, so a single visua",
+    "original": "The library provides refresh and loading components. Several refresh patterns are currently supported, so a single visual pattern is not required.",
+    "text": "The library provides refresh and loading components. Several refresh patterns are currently supported, so a single visual pattern is not required."
+  },
+  {
+    "id": "900001:512",
+    "name": "Action feedback",
+    "original": "Action feedback",
+    "text": "Action feedback"
+  },
+  {
+    "id": "900001:513",
+    "name": "Provide global feedback for actions that succeed or fail. Use a dialog or top notification for important information tha",
+    "original": "Provide global feedback for actions that succeed or fail.\nUse a dialog or top notification for important information that needs stronger attention.",
+    "text": "Provide global feedback for actions that succeed or fail.\nUse a dialog or top notification for important information that needs stronger attention."
+  },
+  {
+    "id": "900001:516",
+    "name": "Examples: global feedback after scanning a QR code or NFC tag, and a confirmation dialog before leaving an unsaved repor",
+    "original": "Examples: global feedback after scanning a QR code or NFC tag, and a confirmation dialog before leaving an unsaved report.",
+    "text": "Examples: global feedback after scanning a QR code or NFC tag, and a confirmation dialog before leaving an unsaved report."
+  },
+  {
+    "id": "900001:524",
+    "name": "Search interactions",
+    "original": "Search interactions",
+    "text": "Search interactions"
+  },
+  {
+    "id": "900001:525",
+    "name": "Tapping a search field should focus it and open the keyboard. Provide a Cancel action for leaving search mode unless the",
+    "original": "Tapping a search field should focus it and open the keyboard.\nProvide a Cancel action for leaving search mode unless the workflow requires otherwise.\nThe content area is empty when search is initially focused.",
+    "text": "Tapping a search field should focus it and open the keyboard.\nProvide a Cancel action for leaving search mode unless the workflow requires otherwise.\nThe content area is empty when search is initially focused."
+  },
+  {
+    "id": "900001:528",
+    "name": "Examples of active search and search results.",
+    "original": "Examples of active search and search results.",
+    "text": "Examples of active search and search results."
+  },
+  {
+    "id": "900001:536",
+    "name": "Overflow handling",
+    "original": "Overflow handling",
+    "text": "Overflow handling"
+  },
+  {
+    "id": "900001:537",
+    "name": "Keep mobile content complete wherever possible. Important text should wrap. If it must be truncated, provide access to t",
+    "original": "Keep mobile content complete wherever possible. Important text should wrap. If it must be truncated, provide access to the full information through a detail view, expansion, popover or message.\nFor content of unpredictable length, consider truncation at a maximum width or a Show more action after a maximum height.",
+    "text": "Keep mobile content complete wherever possible. Important text should wrap. If it must be truncated, provide access to the full information through a detail view, expansion, popover or message.\nFor content of unpredictable length, consider truncation at a maximum width or a Show more action after a maximum height."
+  },
+  {
+    "id": "900001:540",
+    "name": "Examples: full task names, truncated message previews, and incident notifications that expand after reaching a maximum h",
+    "original": "Examples: full task names, truncated message previews, and incident notifications that expand after reaching a maximum height.",
+    "text": "Examples: full task names, truncated message previews, and incident notifications that expand after reaching a maximum height."
+  },
+  {
+    "id": "900001:548",
+    "name": "Disabled-action feedback",
+    "original": "Disabled-action feedback",
+    "text": "Disabled-action feedback"
+  },
+  {
+    "id": "900001:549",
+    "name": "Where possible, explain why an action is disabled when users tap it. This is especially important for frequently used co",
+    "original": "Where possible, explain why an action is disabled when users tap it. This is especially important for frequently used controls.",
+    "text": "Where possible, explain why an action is disabled when users tap it. This is especially important for frequently used controls."
+  },
+  {
+    "id": "900001:552",
+    "name": "Example: tapping disabled areas explains why they are unavailable at different stages of a troubleshooting work order.",
+    "original": "Example: tapping disabled areas explains why they are unavailable at different stages of a troubleshooting work order.",
+    "text": "Example: tapping disabled areas explains why they are unavailable at different stages of a troubleshooting work order."
+  },
+  {
+    "id": "900001:560",
+    "name": "Information hierarchy",
+    "original": "Information hierarchy",
+    "text": "Information hierarchy"
+  },
+  {
+    "id": "900001:561",
+    "name": "Current mobile products use up to four information levels: a blue-marked primary heading, a bold heading on gray, a bold",
+    "original": "Current mobile products use up to four information levels: a blue-marked primary heading, a bold heading on gray, a bold heading on white, and content in a subtle gray card.\nAdapt this hierarchy when the business context requires it.",
+    "text": "Current mobile products use up to four information levels: a blue-marked primary heading, a bold heading on gray, a bold heading on white, and content in a subtle gray card.\nAdapt this hierarchy when the business context requires it."
+  },
+  {
+    "id": "900001:564",
+    "name": "Examples: three information levels in plan review, and four levels with custom headings in repair feedback and measure s",
+    "original": "Examples: three information levels in plan review, and four levels with custom headings in repair feedback and measure selection.",
+    "text": "Examples: three information levels in plan review, and four levels with custom headings in repair feedback and measure selection."
+  }
+]

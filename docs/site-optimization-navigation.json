@@ -1,0 +1,42 @@
+[
+  {
+    "route": "/user-guide",
+    "items": 4,
+    "pass": true
+  },
+  {
+    "route": "/user-guide-en",
+    "items": 4,
+    "pass": true
+  },
+  {
+    "route": "/usage-specification",
+    "items": 6,
+    "pass": true
+  },
+  {
+    "route": "/usage-specification-en",
+    "items": 6,
+    "pass": true
+  },
+  {
+    "route": "/consistency",
+    "items": 18,
+    "pass": true
+  },
+  {
+    "route": "/consistency-en",
+    "items": 18,
+    "pass": true
+  },
+  {
+    "route": "/update-log",
+    "items": 25,
+    "pass": true
+  },
+  {
+    "route": "/update-log-en",
+    "items": 25,
+    "pass": true
+  }
+]

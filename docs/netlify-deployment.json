@@ -1,0 +1,25 @@
+{
+  "verifiedAt": "2026-10-29T03:33:13.664Z",
+  "site": {
+    "siteId": "3fd555b9-1178-4f2f-a33b-457b3b2c878b",
+    "name": "meri-design-mobil",
+    "team": "916554941",
+    "url": "https://meri-design-mobil.netlify.app",
+    "adminUrl": "https://app.netlify.com/projects/meri-design-mobil",
+    "createdAt": "2026-10-29T03:26:39.378Z"
+  },
+  "deploy": {
+    "id": "6ae2bd27ea0cb316130483a7",
+    "state": "ready",
+    "deployUrl": "https://6ae2bd27ea0cb316130483a7--meri-design-mobil.netlify.app"
+  },
+  "buildCheck": "npm run check passed: 10 routes, 420 resource hashes, 1810 text nodes, 464 interactions, 450 behaviors, 4 video references",
+  "deployedFiles": 446,
+  "matchingFileDigests": 446,
+  "fileMetadataPaths": "Netlify API normalizes file paths to lowercase; hashes verified with matching normalized paths.",
+  "access": {
+    "anonymousStatus": 401,
+    "reason": "Inherited team default private project visibility",
+    "publicVerification": "Waiting for owner to select Make public in Netlify dashboard"
+  }
+}

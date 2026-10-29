@@ -1,0 +1,134 @@
+[
+  {
+    "id": "9:553",
+    "name": "导航文本",
+    "original": "导航文本",
+    "text": "导航文本"
+  },
+  {
+    "id": "override",
+    "name": "Meri Design",
+    "original": "Meri Design",
+    "text": "Meri Design"
+  },
+  {
+    "id": "override",
+    "name": "Usage Specifications",
+    "original": "Usage Specifications",
+    "text": "Usage Specifications"
+  },
+  {
+    "id": "override",
+    "name": "Consistency",
+    "original": "Consistency",
+    "text": "Consistency"
+  },
+  {
+    "id": "override",
+    "name": "Usage Guide",
+    "original": "Usage Guide",
+    "text": "Usage Guide"
+  },
+  {
+    "id": "150:7776",
+    "name": "中",
+    "original": "中",
+    "text": "中"
+  },
+  {
+    "id": "150:7774",
+    "name": "En",
+    "original": "En",
+    "text": "En"
+  },
+  {
+    "id": "28:277",
+    "name": "标题",
+    "original": "标题",
+    "text": "标题"
+  },
+  {
+    "id": "151:9779",
+    "name": "Frontend developers can view the corresponding variable descriptions by selecting components in development mode. The bottom provides the development call address for the corresponding component. If there is a disagreement between designers and developers regarding whether certain components support specific usage methods, they can directly check the code-supported variables on the component website. Due to limited development resources, the current version of the component has been adjusted based on vant3, and some styles and functionalities may differ from the latest version of vant.",
+    "original": "Frontend developers can view the corresponding variable descriptions by selecting components in development mode. The bottom provides the development call address for the corresponding component. If there is a disagreement between designers and developers regarding whether certain components support specific usage methods, they can directly check the code-supported variables on the component website. Due to limited development resources, the current version of the component has been adjusted based on vant3, and some styles and functionalities may differ from the latest version of vant.",
+    "text": "Frontend developers can view the corresponding variable descriptions by selecting components in development mode. The bottom provides the development call address for the corresponding component. If there is a disagreement between designers and developers regarding whether certain components support specific usage methods, they can directly check the code-supported variables on the component website. Due to limited development resources, the current version of the component has been adjusted based on vant3, and some styles and functionalities may differ from the latest version of vant."
+  },
+  {
+    "id": "47:10345",
+    "name": "16/Bold",
+    "original": "Rag 123",
+    "text": "Rag 123"
+  },
+  {
+    "id": "151:9811",
+    "name": "The component includes relevant usage instructions, such as usage specifications, extreme case handling instructions, and variable extensions supported by development.",
+    "original": "The component includes relevant usage instructions, such as usage specifications, extreme case handling instructions, and variable extensions supported by development.",
+    "text": "The component includes relevant usage instructions, such as usage specifications, extreme case handling instructions, and variable extensions supported by development."
+  },
+  {
+    "id": "151:9772",
+    "name": "Single Component Usage Instructions",
+    "original": "Single Component Usage Instructions",
+    "text": "Single Component Usage Instructions"
+  },
+  {
+    "id": "151:9806",
+    "name": "The component offers rich variable controls (different types and states, slot visibility control, quick icon replacement, etc.)",
+    "original": "The component offers rich variable controls (different types and states, slot visibility control, quick icon replacement, etc.)",
+    "text": "The component offers rich variable controls (different types and states, slot visibility control, quick icon replacement, etc.)"
+  },
+  {
+    "id": "151:9804",
+    "name": "Design Component Variable Description",
+    "original": "Design Component Variable Description",
+    "text": "Design Component Variable Description"
+  },
+  {
+    "id": "override",
+    "name": "Dev Mode Usage",
+    "original": "Dev Mode Usage",
+    "text": "Dev Mode Usage"
+  },
+  {
+    "id": "151:9814",
+    "name": "Usage Instructions in Development Mode",
+    "original": "Usage Instructions in Development Mode",
+    "text": "Usage Instructions in Development Mode"
+  },
+  {
+    "id": "47:10779",
+    "name": "12/Regular",
+    "original": "Ag",
+    "text": "Ag"
+  },
+  {
+    "id": "override",
+    "name": "Component Usage",
+    "original": "Component Usage",
+    "text": "Component Usage"
+  },
+  {
+    "id": "override",
+    "name": "Component Variable ",
+    "original": "Component Variable ",
+    "text": "Component Variable "
+  },
+  {
+    "id": "151:9798",
+    "name": "Team members can directly enable components through the component panel. Once enabled, they can search or find calls directly through the component panel. Non-team members can copy the documentation and publish components for use within their own teams. The component has been optimized for search keywords; for example, the [Cell] component can also be found using the [List] keyword. Icon naming has also been made compatible for search (supporting Chinese naming searches), aligning better with designers' search habits.",
+    "original": "Team members can directly enable components through the component panel. Once enabled, they can search or find calls directly through the component panel. Non-team members can copy the documentation and publish components for use within their own teams. The component has been optimized for search keywords; for example, the [Cell] component can also be found using the [List] keyword. Icon naming has also been made compatible for search (supporting Chinese naming searches), aligning better with designers' search habits.",
+    "text": "Team members can directly enable components through the component panel. Once enabled, they can search or find calls directly through the component panel. Non-team members can copy the documentation and publish components for use within their own teams. The component has been optimized for search keywords; for example, the [Cell] component can also be found using the [List] keyword. Icon naming has also been made compatible for search (supporting Chinese naming searches), aligning better with designers' search habits."
+  },
+  {
+    "id": "override",
+    "name": "Design Integration",
+    "original": "Design Integration",
+    "text": "Design Integration"
+  },
+  {
+    "id": "151:9759",
+    "name": "Design Call",
+    "original": "Design Call",
+    "text": "Design Call"
+  }
+]

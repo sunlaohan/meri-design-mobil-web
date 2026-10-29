@@ -1,0 +1,643 @@
+[
+  {
+    "brokenVisibleImages": [],
+    "headings": [
+      "丰富的变量带来丝滑体验",
+      "200+B端图标库",
+      "完善的说明实现高效协作",
+      "满足复杂场景的业务控件",
+      "本地汉化使用更便捷",
+      "Meri Design Mobile-Figma组件优势",
+      "其他移动端Figma组件",
+      "Meri Design M Figma组件",
+      "高效变量",
+      "完整开发变量说明",
+      "本地化",
+      "持续更新",
+      "开发调用链接定位",
+      "使用反馈和优化建议"
+    ],
+    "height": 812,
+    "navItems": 0,
+    "overflow": false,
+    "remainingTypos": false,
+    "route": "/",
+    "width": 1280
+  },
+  {
+    "brokenVisibleImages": [],
+    "headings": [
+      "Rich variables for smooth experience",
+      "200+  Icon",
+      "Full instructions enable efficient collaboration",
+      "Business components for complex scenarios",
+      "Localized Chinese for easier use",
+      "Component Advantages",
+      "Other Mobile",
+      "Meri Design M",
+      "Efficient Variables",
+      "Complete Development",
+      "Localization",
+      "Continuous Updates",
+      "Development Call Link Positioning",
+      "Feedback & Suggestions"
+    ],
+    "height": 812,
+    "navItems": 0,
+    "overflow": false,
+    "remainingTypos": false,
+    "route": "/home-en",
+    "width": 1280
+  },
+  {
+    "brokenVisibleImages": [],
+    "headings": [
+      "设计调用",
+      "设计组件变量说明",
+      "单个组件使用说明",
+      "开发模式下的使用说明"
+    ],
+    "height": 812,
+    "navItems": 4,
+    "overflow": false,
+    "remainingTypos": false,
+    "route": "/user-guide",
+    "width": 1280
+  },
+  {
+    "brokenVisibleImages": [],
+    "headings": [
+      "Design Call",
+      "Design Component Variable Description",
+      "Single Component Usage Instructions",
+      "Usage Instructions in Development Mode"
+    ],
+    "height": 812,
+    "navItems": 4,
+    "overflow": false,
+    "remainingTypos": false,
+    "route": "/user-guide-en",
+    "width": 1280
+  },
+  {
+    "brokenVisibleImages": [],
+    "headings": [
+      "布局 Layout",
+      "字体 Font",
+      "按钮 Button",
+      "单元格 Cell",
+      "加载 Loading",
+      "提示 Tips"
+    ],
+    "height": 812,
+    "navItems": 6,
+    "overflow": false,
+    "remainingTypos": false,
+    "route": "/usage-specification",
+    "width": 1280
+  },
+  {
+    "brokenVisibleImages": [],
+    "headings": [
+      "Layout",
+      "Font",
+      "Button"
+    ],
+    "height": 812,
+    "navItems": 3,
+    "overflow": false,
+    "remainingTypos": false,
+    "route": "/usage-specification-en",
+    "width": 1280
+  },
+  {
+    "brokenVisibleImages": [],
+    "headings": [
+      "页面层级",
+      "微交互",
+      "间距",
+      "字体字号",
+      "小蓝标",
+      "按压效果",
+      "选中效果",
+      "多选/单选",
+      "触发热区",
+      "激活键盘",
+      "内容请求",
+      "边缘返回",
+      "下拉刷新/滚动加载",
+      "反馈提示",
+      "搜索交互",
+      "超出处理",
+      "禁用点击提示",
+      "信息层级"
+    ],
+    "height": 812,
+    "navItems": 17,
+    "overflow": false,
+    "remainingTypos": false,
+    "route": "/consistency",
+    "width": 1280
+  },
+  {
+    "brokenVisibleImages": [],
+    "headings": [
+      "Page Hierarchy",
+      "Micro-interaction",
+      "Spacing",
+      "Font Size",
+      "Small Blue Label",
+      "Press Effect"
+    ],
+    "height": 812,
+    "navItems": 6,
+    "overflow": false,
+    "remainingTypos": false,
+    "route": "/consistency-en",
+    "width": 1280
+  },
+  {
+    "brokenVisibleImages": [],
+    "headings": [
+      "2026.08.05",
+      "2025.06.19",
+      "2025.04.22",
+      "2025.04.14",
+      "2025.03.31",
+      "2025.01.10",
+      "2024.06.18",
+      "2023.12.26",
+      "2023.12.22",
+      "2023.10.09",
+      "2023.10.09",
+      "2023.10.09",
+      "2023.09.18",
+      "2023.09.18",
+      "2023.09.13",
+      "2023.09.12",
+      "2023.09.11",
+      "2023.09.08",
+      "2023.09.07",
+      "2023.09.06",
+      "2023.09.05",
+      "2023.09.01",
+      "2023.09.01",
+      "2023.08.29",
+      "2023.08.18",
+      "2023.08.18",
+      "2023.08.02",
+      "2023.08.01",
+      "2023.07.31",
+      "2023.07.24"
+    ],
+    "height": 812,
+    "navItems": 6,
+    "overflow": false,
+    "remainingTypos": false,
+    "route": "/update-log",
+    "width": 1280
+  },
+  {
+    "brokenVisibleImages": [],
+    "headings": [
+      "2026.08.05",
+      "2025.06.19",
+      "2025.04.22",
+      "2025.04.14",
+      "2025.03.31"
+    ],
+    "height": 812,
+    "navItems": 4,
+    "overflow": false,
+    "remainingTypos": false,
+    "route": "/update-log-en",
+    "width": 1280
+  },
+  {
+    "brokenVisibleImages": [],
+    "headings": [
+      "Meri Design Mobile",
+      "丰富的变量带来丝滑体验",
+      "200+B端图标库",
+      "完善的说明实现高效协作",
+      "满足复杂场景的业务控件",
+      "本地汉化更便捷",
+      "反馈和优化建议"
+    ],
+    "height": 812,
+    "navItems": 0,
+    "overflow": false,
+    "remainingTypos": false,
+    "route": "/",
+    "width": 375
+  },
+  {
+    "brokenVisibleImages": [],
+    "headings": [
+      "Meri Design Mobile",
+      "Rich variables for smooth experience",
+      "200+  Icon",
+      "Full instructions enable efficient collaboration",
+      "Business components for complex scenarios",
+      "Localized Chinese for easier use",
+      "Feedback & Suggestions"
+    ],
+    "height": 812,
+    "navItems": 0,
+    "overflow": false,
+    "remainingTypos": false,
+    "route": "/home-en",
+    "width": 375
+  },
+  {
+    "brokenVisibleImages": [],
+    "headings": [
+      "设计调用",
+      "设计组件变量说明",
+      "单个组件使用说明",
+      "开发模式下的使用说明"
+    ],
+    "height": 812,
+    "navItems": 0,
+    "overflow": false,
+    "remainingTypos": false,
+    "route": "/user-guide",
+    "width": 375
+  },
+  {
+    "brokenVisibleImages": [],
+    "headings": [
+      "Design Call",
+      "Design Component Variable Description",
+      "Single Component Usage Instructions",
+      "Usage Instructions in Development Mode"
+    ],
+    "height": 812,
+    "navItems": 0,
+    "overflow": false,
+    "remainingTypos": false,
+    "route": "/user-guide-en",
+    "width": 375
+  },
+  {
+    "brokenVisibleImages": [],
+    "headings": [
+      "布局 Layout",
+      "字体 Font",
+      "按钮 Button"
+    ],
+    "height": 812,
+    "navItems": 0,
+    "overflow": false,
+    "remainingTypos": false,
+    "route": "/usage-specification",
+    "width": 375
+  },
+  {
+    "brokenVisibleImages": [],
+    "headings": [
+      "Layout",
+      "Font",
+      "Button"
+    ],
+    "height": 812,
+    "navItems": 0,
+    "overflow": false,
+    "remainingTypos": false,
+    "route": "/usage-specification-en",
+    "width": 375
+  },
+  {
+    "brokenVisibleImages": [],
+    "headings": [
+      "页面层级",
+      "微交互",
+      "间距",
+      "字体字号",
+      "小蓝标"
+    ],
+    "height": 812,
+    "navItems": 0,
+    "overflow": false,
+    "remainingTypos": false,
+    "route": "/consistency",
+    "width": 375
+  },
+  {
+    "brokenVisibleImages": [],
+    "headings": [
+      "Page Hierarchy",
+      "Micro-interaction",
+      "Spacing",
+      "Font Size",
+      "Small Blue Label"
+    ],
+    "height": 812,
+    "navItems": 0,
+    "overflow": false,
+    "remainingTypos": false,
+    "route": "/consistency-en",
+    "width": 375
+  },
+  {
+    "brokenVisibleImages": [],
+    "headings": [
+      "2026.08.05",
+      "2025.06.19",
+      "2025.04.22",
+      "2025.03.31",
+      "2025.01.10"
+    ],
+    "height": 812,
+    "navItems": 0,
+    "overflow": false,
+    "remainingTypos": false,
+    "route": "/update-log",
+    "width": 375
+  },
+  {
+    "brokenVisibleImages": [],
+    "headings": [
+      "2026.08.05",
+      "2025.06.19",
+      "2025.04.22",
+      "2025.03.31"
+    ],
+    "height": 812,
+    "navItems": 0,
+    "overflow": false,
+    "remainingTypos": false,
+    "route": "/update-log-en",
+    "width": 375
+  },
+  {
+    "brokenVisibleImages": [],
+    "height": 812,
+    "navItems": 0,
+    "overflow": false,
+    "remainingTypos": false,
+    "route": "/",
+    "width": 1024
+  },
+  {
+    "brokenVisibleImages": [],
+    "height": 812,
+    "navItems": 0,
+    "overflow": false,
+    "remainingTypos": false,
+    "route": "/home-en",
+    "width": 1024
+  },
+  {
+    "brokenVisibleImages": [],
+    "height": 812,
+    "navItems": 0,
+    "overflow": false,
+    "remainingTypos": false,
+    "route": "/user-guide",
+    "width": 1024
+  },
+  {
+    "brokenVisibleImages": [],
+    "height": 812,
+    "navItems": 0,
+    "overflow": false,
+    "remainingTypos": false,
+    "route": "/user-guide-en",
+    "width": 1024
+  },
+  {
+    "brokenVisibleImages": [],
+    "height": 812,
+    "navItems": 0,
+    "overflow": false,
+    "remainingTypos": false,
+    "route": "/usage-specification",
+    "width": 1024
+  },
+  {
+    "brokenVisibleImages": [],
+    "height": 812,
+    "navItems": 0,
+    "overflow": false,
+    "remainingTypos": false,
+    "route": "/usage-specification-en",
+    "width": 1024
+  },
+  {
+    "brokenVisibleImages": [],
+    "height": 812,
+    "navItems": 0,
+    "overflow": false,
+    "remainingTypos": false,
+    "route": "/consistency",
+    "width": 1024
+  },
+  {
+    "brokenVisibleImages": [],
+    "height": 812,
+    "navItems": 0,
+    "overflow": false,
+    "remainingTypos": false,
+    "route": "/consistency-en",
+    "width": 1024
+  },
+  {
+    "brokenVisibleImages": [],
+    "height": 812,
+    "navItems": 0,
+    "overflow": false,
+    "remainingTypos": false,
+    "route": "/update-log",
+    "width": 1024
+  },
+  {
+    "brokenVisibleImages": [],
+    "height": 812,
+    "navItems": 0,
+    "overflow": false,
+    "remainingTypos": false,
+    "route": "/update-log-en",
+    "width": 1024
+  },
+  {
+    "brokenVisibleImages": [],
+    "height": 812,
+    "navItems": 0,
+    "overflow": false,
+    "remainingTypos": false,
+    "route": "/",
+    "width": 768
+  },
+  {
+    "brokenVisibleImages": [],
+    "height": 812,
+    "navItems": 0,
+    "overflow": false,
+    "remainingTypos": false,
+    "route": "/home-en",
+    "width": 768
+  },
+  {
+    "brokenVisibleImages": [],
+    "height": 812,
+    "navItems": 0,
+    "overflow": false,
+    "remainingTypos": false,
+    "route": "/user-guide",
+    "width": 768
+  },
+  {
+    "brokenVisibleImages": [],
+    "height": 812,
+    "navItems": 0,
+    "overflow": false,
+    "remainingTypos": false,
+    "route": "/user-guide-en",
+    "width": 768
+  },
+  {
+    "brokenVisibleImages": [],
+    "height": 812,
+    "navItems": 0,
+    "overflow": false,
+    "remainingTypos": false,
+    "route": "/usage-specification",
+    "width": 768
+  },
+  {
+    "brokenVisibleImages": [],
+    "height": 812,
+    "navItems": 0,
+    "overflow": false,
+    "remainingTypos": false,
+    "route": "/usage-specification-en",
+    "width": 768
+  },
+  {
+    "brokenVisibleImages": [],
+    "height": 812,
+    "navItems": 0,
+    "overflow": false,
+    "remainingTypos": false,
+    "route": "/consistency",
+    "width": 768
+  },
+  {
+    "brokenVisibleImages": [],
+    "height": 812,
+    "navItems": 0,
+    "overflow": false,
+    "remainingTypos": false,
+    "route": "/consistency-en",
+    "width": 768
+  },
+  {
+    "brokenVisibleImages": [],
+    "height": 812,
+    "navItems": 0,
+    "overflow": false,
+    "remainingTypos": false,
+    "route": "/update-log",
+    "width": 768
+  },
+  {
+    "brokenVisibleImages": [],
+    "height": 812,
+    "navItems": 0,
+    "overflow": false,
+    "remainingTypos": false,
+    "route": "/update-log-en",
+    "width": 768
+  },
+  {
+    "brokenVisibleImages": [],
+    "height": 812,
+    "navItems": 0,
+    "overflow": false,
+    "remainingTypos": false,
+    "route": "/",
+    "width": 320
+  },
+  {
+    "brokenVisibleImages": [],
+    "height": 812,
+    "navItems": 0,
+    "overflow": false,
+    "remainingTypos": false,
+    "route": "/home-en",
+    "width": 320
+  },
+  {
+    "brokenVisibleImages": [],
+    "height": 812,
+    "navItems": 0,
+    "overflow": false,
+    "remainingTypos": false,
+    "route": "/user-guide",
+    "width": 320
+  },
+  {
+    "brokenVisibleImages": [],
+    "height": 812,
+    "navItems": 0,
+    "overflow": false,
+    "remainingTypos": false,
+    "route": "/user-guide-en",
+    "width": 320
+  },
+  {
+    "brokenVisibleImages": [],
+    "height": 812,
+    "navItems": 0,
+    "overflow": false,
+    "remainingTypos": false,
+    "route": "/usage-specification",
+    "width": 320
+  },
+  {
+    "brokenVisibleImages": [],
+    "height": 812,
+    "navItems": 0,
+    "overflow": false,
+    "remainingTypos": false,
+    "route": "/usage-specification-en",
+    "width": 320
+  },
+  {
+    "brokenVisibleImages": [],
+    "height": 812,
+    "navItems": 0,
+    "overflow": false,
+    "remainingTypos": false,
+    "route": "/consistency",
+    "width": 320
+  },
+  {
+    "brokenVisibleImages": [],
+    "height": 812,
+    "navItems": 0,
+    "overflow": false,
+    "remainingTypos": false,
+    "route": "/consistency-en",
+    "width": 320
+  },
+  {
+    "brokenVisibleImages": [],
+    "height": 812,
+    "navItems": 0,
+    "overflow": false,
+    "remainingTypos": false,
+    "route": "/update-log",
+    "width": 320
+  },
+  {
+    "brokenVisibleImages": [],
+    "height": 812,
+    "navItems": 0,
+    "overflow": false,
+    "remainingTypos": false,
+    "route": "/update-log-en",
+    "width": 320
+  }
+]

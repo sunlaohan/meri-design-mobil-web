@@ -1,0 +1,410 @@
+[
+  {
+    "id": "150:7776",
+    "name": "中",
+    "original": "中",
+    "text": "中"
+  },
+  {
+    "id": "override",
+    "name": "移动端一致性",
+    "original": "移动端一致性",
+    "text": "移动端一致性"
+  },
+  {
+    "id": "override",
+    "name": "组件使用规范",
+    "original": "组件使用规范",
+    "text": "组件使用规范"
+  },
+  {
+    "id": "override",
+    "name": "梅里雪山设计系统",
+    "original": "梅里雪山设计系统",
+    "text": "梅里雪山设计系统"
+  },
+  {
+    "id": "150:7771",
+    "name": "En",
+    "original": "En",
+    "text": "En"
+  },
+  {
+    "id": "override",
+    "name": "Usage Guide",
+    "original": "Usage Guide",
+    "text": "Usage Guide"
+  },
+  {
+    "id": "73:4605",
+    "name": "邮箱：1291362786@qq.com 钉钉号：sennic",
+    "original": "邮箱：1291362786@qq.com\n钉钉号：sennic",
+    "text": "邮箱：1291362786@qq.com\n钉钉号：sennic"
+  },
+  {
+    "id": "9:590",
+    "name": "Meri Design",
+    "original": "Meri Design",
+    "text": "Meri Design"
+  },
+  {
+    "id": "73:4537",
+    "name": "邮箱：sunlei@yushu.biz 钉钉号：sennic",
+    "original": "邮箱：sunlei@yushu.biz\n钉钉号：sennic",
+    "text": "邮箱：sunlei@yushu.biz\n钉钉号：sennic"
+  },
+  {
+    "id": "9:1142",
+    "name": "button",
+    "original": "button",
+    "text": "button"
+  },
+  {
+    "id": "override",
+    "name": "使用指南",
+    "original": "使用指南",
+    "text": "使用指南"
+  },
+  {
+    "id": "112:5397",
+    "name": "技术支持",
+    "original": "技术支持",
+    "text": "技术支持"
+  },
+  {
+    "id": "override",
+    "name": "更新日志",
+    "original": "更新日志",
+    "text": "更新日志"
+  },
+  {
+    "id": "112:5373",
+    "name": "持续更新",
+    "original": "持续更新",
+    "text": "持续更新"
+  },
+  {
+    "id": "112:5376",
+    "name": "开发调用",
+    "original": "开发调用",
+    "text": "开发调用"
+  },
+  {
+    "id": "112:5371",
+    "name": "localization",
+    "original": "localization",
+    "text": "localization"
+  },
+  {
+    "id": "112:5402",
+    "name": "帮助反馈",
+    "original": "帮助反馈",
+    "text": "帮助反馈"
+  },
+  {
+    "id": "112:5346",
+    "name": "Efficient Variables",
+    "original": "Efficient Variables",
+    "text": "Efficient Variables"
+  },
+  {
+    "id": "112:5345",
+    "name": "高效变量",
+    "original": "高效变量",
+    "text": "高效变量"
+  },
+  {
+    "id": "112:5343",
+    "name": "MD组件",
+    "original": "MD组件",
+    "text": "MD组件"
+  },
+  {
+    "id": "override",
+    "name": "web端开发调用",
+    "original": "web端开发调用",
+    "text": "web端开发调用"
+  },
+  {
+    "id": "112:5339",
+    "name": "其他组件",
+    "original": "其他组件",
+    "text": "其他组件"
+  },
+  {
+    "id": "112:5407",
+    "name": "其他相关",
+    "original": "其他相关",
+    "text": "其他相关"
+  },
+  {
+    "id": "override",
+    "name": "Figma组件",
+    "original": "Figma组件",
+    "text": "Figma组件"
+  },
+  {
+    "id": "112:5332",
+    "name": "组件在设计之初充分考虑了国内B端业务场景的中文极端填充情况，针对不同的组件进行了不同的宽度、高度限制设置，设计师仅需填充对应中文文本即可。同时变量、组件说明等均为中文，提高设计师使用效率。",
+    "original": "组件在设计之初充分考虑了国内B端业务场景的中文极端填充情况，针对不同的组件进行了不同的宽度、高度限制设置，设计师仅需填充对应中文文本即可。同时变量、组件说明等均为中文，提高设计师使用效率。",
+    "text": "组件在设计之初充分考虑了国内B端业务场景的中文极端填充情况，针对不同的组件进行了不同的宽度、高度限制设置，设计师仅需填充对应中文文本即可。同时变量、组件说明等均为中文，提高设计师使用效率。"
+  },
+  {
+    "id": "112:5330",
+    "name": "本地汉化更便捷",
+    "original": "本地汉化更便捷",
+    "text": "本地汉化更便捷"
+  },
+  {
+    "id": "112:5327",
+    "name": "我们在相对复杂的业务场景中所积累的【树选择】【多选批量操作】【筛选操作】等业务控件也可在figma组件库中一键调用，同时也提供丰富的变量和说明，但目前未进行开放的开发组件封装，企业内部产线可找到对应业务组件开发者直接调用业务组件。",
+    "original": "我们在相对复杂的业务场景中所积累的【树选择】【多选批量操作】【筛选操作】等业务控件也可在figma组件库中一键调用，同时也提供丰富的变量和说明，但目前未进行开放的开发组件封装，企业内部产线可找到对应业务组件开发者直接调用业务组件。",
+    "text": "我们在相对复杂的业务场景中所积累的【树选择】【多选批量操作】【筛选操作】等业务控件也可在figma组件库中一键调用，同时也提供丰富的变量和说明，但目前未进行开放的开发组件封装，企业内部产线可找到对应业务组件开发者直接调用业务组件。"
+  },
+  {
+    "id": "10:1266",
+    "name": "针对B端相对专业和复杂的词汇表意，我们提供了类似【推荐】【流转】【审批】【领用】【设备】等表意相关的图标，让图标覆盖性和适用性得到有效的提升。",
+    "original": "针对B端相对专业和复杂的词汇表意，我们提供了类似【推荐】【流转】【审批】【领用】【设备】等表意相关的图标，让图标覆盖性和适用性得到有效的提升。",
+    "text": "针对B端相对专业和复杂的词汇表意，我们提供了类似【推荐】【流转】【审批】【领用】【设备】等表意相关的图标，让图标覆盖性和适用性得到有效的提升。"
+  },
+  {
+    "id": "112:5353",
+    "name": "Variable Documentation",
+    "original": "Variable Documentation",
+    "text": "Variable Documentation"
+  },
+  {
+    "id": "112:5320",
+    "name": "在组价说明中我们增加了当前组件所支持的开发变量，以及相关使用规范和说明，同时还提供了组件开发调用链接，开发模式下开发中能直接点击跳转开发网站进行调用。详细的查看方法可通过【使用指南】进行查看。",
+    "original": "在组价说明中我们增加了当前组件所支持的开发变量，以及相关使用规范和说明，同时还提供了组件开发调用链接，开发模式下开发中能直接点击跳转开发网站进行调用。详细的查看方法可通过【使用指南】进行查看。",
+    "text": "在组件说明中我们增加了当前组件所支持的开发变量，以及相关使用规范和说明，同时还提供了组件开发调用链接，开发模式下开发中能直接点击跳转开发网站进行调用。详细的查看方法可通过【使用指南】进行查看。"
+  },
+  {
+    "id": "112:5383",
+    "name": "反馈和优化建议",
+    "original": "反馈和优化建议",
+    "text": "反馈和优化建议"
+  },
+  {
+    "id": "112:5313",
+    "name": "200+B端图标库",
+    "original": "200+B端图标库",
+    "text": "200+B端图标库"
+  },
+  {
+    "id": "override",
+    "name": "博锐尚格",
+    "original": "博锐尚格",
+    "text": "博锐尚格"
+  },
+  {
+    "id": "112:5352",
+    "name": "变量说明",
+    "original": "变量说明",
+    "text": "变量说明"
+  },
+  {
+    "id": "112:5370",
+    "name": "本地化",
+    "original": "本地化",
+    "text": "本地化"
+  },
+  {
+    "id": "112:5377",
+    "name": "Development Call Link Positioning",
+    "original": "Development Call Link Positioning",
+    "text": "Development Call Link Positioning"
+  },
+  {
+    "id": "112:5299",
+    "name": "Meri Design Mobile隶属于“Meri Design（梅里雪山）”设计系统，我们将B端产品的特性和当下移动端主流交互趋势进行了结合，在协助项目完成高效迭代的同时也保证了良好的交互体验",
+    "original": "Meri Design Mobile隶属于“Meri Design（梅里雪山）”设计系统，我们将B端产品的特性和当下移动端主流交互趋势进行了结合，在协助项目完成高效迭代的同时也保证了良好的交互体验",
+    "text": "Meri Design Mobile隶属于“Meri Design（梅里雪山）”设计系统，我们将B端产品的特性和当下移动端主流交互趋势进行了结合，在协助项目完成高效迭代的同时也保证了良好的交互体验"
+  },
+  {
+    "id": "112:5297",
+    "name": "Meri Design Mobile",
+    "original": "Meri Design Mobile",
+    "text": "Meri Design Mobile"
+  },
+  {
+    "id": "112:5335",
+    "name": "组件优势",
+    "original": "组件优势",
+    "text": "组件优势"
+  },
+  {
+    "id": "9:1192",
+    "name": "Meri Design M Figma组件",
+    "original": "Meri Design M Figma组件",
+    "text": "Meri Design M Figma组件"
+  },
+  {
+    "id": "112:5305",
+    "name": "丰富的变量带来丝滑体验",
+    "original": "丰富的变量带来丝滑体验",
+    "text": "丰富的变量带来丝滑体验"
+  },
+  {
+    "id": "112:5307",
+    "name": "我们在封装figma组件时为设计师提供了丰富的变量，大量的显隐控制可以帮助你在面对产品经理频繁修改时更加从容的应对；同时针对图标更换这类高频操作提供了表层操作，直接通过变量面板进行下拉操作；丰富的插槽覆盖多种需求场景，无论产品让你加图标、加标签还是加徽标，你只需要淡定的打开开关即可进行视觉呈现。详细的调用方法可通过【使用指南】进行查看。",
+    "original": "我们在封装figma组件时为设计师提供了丰富的变量，大量的显隐控制可以帮助你在面对产品经理频繁修改时更加从容的应对；同时针对图标更换这类高频操作提供了表层操作，直接通过变量面板进行下拉操作；丰富的插槽覆盖多种需求场景，无论产品让你加图标、加标签还是加徽标，你只需要淡定的打开开关即可进行视觉呈现。详细的调用方法可通过【使用指南】进行查看。",
+    "text": "我们在封装figma组件时为设计师提供了丰富的变量，大量的显隐控制可以帮助你在面对产品经理频繁修改时更加从容的应对；同时针对图标更换这类高频操作提供了表层操作，直接通过变量面板进行下拉操作；丰富的插槽覆盖多种需求场景，无论产品让你加图标、加标签还是加徽标，你只需要淡定的打开开关即可进行视觉呈现。详细的调用方法可通过【使用指南】进行查看。"
+  },
+  {
+    "id": "override",
+    "name": "禹数MEOS",
+    "original": "禹数MEOS",
+    "text": "禹数MEOS"
+  },
+  {
+    "id": "112:5325",
+    "name": "满足复杂场景的业务控件",
+    "original": "满足复杂场景的业务控件",
+    "text": "满足复杂场景的业务控件"
+  },
+  {
+    "id": "override",
+    "name": "联系我们",
+    "original": "联系我们",
+    "text": "联系我们"
+  },
+  {
+    "id": "9:790",
+    "name": "Meri Design Mobile",
+    "original": "Meri Design \nMobile",
+    "text": "Meri Design \nMobile"
+  },
+  {
+    "id": "9:854",
+    "name": "使用反馈和优化建议",
+    "original": "使用反馈和优化建议",
+    "text": "使用反馈和优化建议"
+  },
+  {
+    "id": "override",
+    "name": "web端figma组件",
+    "original": "web端figma组件",
+    "text": "web端figma组件"
+  },
+  {
+    "id": "override",
+    "name": "移动端开发调用",
+    "original": "移动端开发调用",
+    "text": "移动端开发调用"
+  },
+  {
+    "id": "112:5391",
+    "name": "设计相关",
+    "original": "设计相关",
+    "text": "设计相关"
+  },
+  {
+    "id": "112:5374",
+    "name": "Continuous Updates",
+    "original": "Continuous Updates",
+    "text": "Continuous Updates"
+  },
+  {
+    "id": "47:10386",
+    "name": "14/Regular",
+    "original": "Ag",
+    "text": "Ag"
+  },
+  {
+    "id": "9:857",
+    "name": "如果大家在使用过程种发现了组件bug或有更好的优化建议欢迎联系我们进行反馈，我们将通过更新迭代让我们的meiri移动端组件更加高效易用",
+    "original": "如果大家在使用过程种发现了组件bug或有更好的优化建议欢迎联系我们进行反馈，我们将通过更新迭代让我们的meiri移动端组件更加高效易用",
+    "text": "如果大家在使用过程中发现了组件bug或有更好的优化建议欢迎联系我们进行反馈，我们将通过更新迭代让我们的Meri移动端组件更加高效易用"
+  },
+  {
+    "id": "112:5318",
+    "name": "完善的说明实现高效协作",
+    "original": "完善的说明实现高效协作",
+    "text": "完善的说明实现高效协作"
+  },
+  {
+    "id": "override",
+    "name": "anywhere",
+    "original": "anywhere",
+    "text": "anywhere"
+  },
+  {
+    "id": "override",
+    "name": "grab",
+    "original": "grab",
+    "text": "grab"
+  },
+  {
+    "id": "9:559",
+    "name": "导航文本",
+    "original": "导航文本",
+    "text": "导航文本"
+  },
+  {
+    "id": "10:1316",
+    "name": "开发调用链接定位",
+    "original": "开发调用链接定位",
+    "text": "开发调用链接定位"
+  },
+  {
+    "id": "override",
+    "name": "Usage Specifications",
+    "original": "Usage Specifications",
+    "text": "Usage Specifications"
+  },
+  {
+    "id": "override",
+    "name": "Consistency",
+    "original": "Consistency",
+    "text": "Consistency"
+  },
+  {
+    "id": "9:830",
+    "name": "完整开发变量说明",
+    "original": "完整开发变量说明",
+    "text": "完整开发变量说明"
+  },
+  {
+    "id": "override",
+    "name": "移动端figma组件",
+    "original": "移动端figma组件",
+    "text": "移动端figma组件"
+  },
+  {
+    "id": "9:819",
+    "name": "其他移动端Figma组件",
+    "original": "其他移动端Figma组件",
+    "text": "其他移动端Figma组件"
+  },
+  {
+    "id": "47:10345",
+    "name": "16/Bold",
+    "original": "Rag 123",
+    "text": "Rag 123"
+  },
+  {
+    "id": "override",
+    "name": "使用反馈",
+    "original": "使用反馈",
+    "text": "使用反馈"
+  },
+  {
+    "id": "override",
+    "name": "MEOS软件下载",
+    "original": "MEOS软件下载",
+    "text": "MEOS软件下载"
+  },
+  {
+    "id": "9:815",
+    "name": "Meri Design Mobile-Figma组件优势",
+    "original": "Meri Design Mobile-Figma组件优势",
+    "text": "Meri Design Mobile-Figma组件优势"
+  },
+  {
+    "id": "10:1291",
+    "name": "本地汉化使用更便捷",
+    "original": "本地汉化使用更便捷",
+    "text": "本地汉化使用更便捷"
+  }
+]

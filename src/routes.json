@@ -1,0 +1,52 @@
+[
+  {
+    "route": "/",
+    "slug": "home",
+    "rootId": "0:3"
+  },
+  {
+    "route": "/home-en",
+    "slug": "home-en",
+    "rootId": "151:8238"
+  },
+  {
+    "route": "/user-guide",
+    "slug": "user-guide",
+    "rootId": "32:8284"
+  },
+  {
+    "route": "/user-guide-en",
+    "slug": "user-guide-en",
+    "rootId": "151:9748"
+  },
+  {
+    "route": "/usage-specification",
+    "slug": "usage-specification",
+    "rootId": "47:10187"
+  },
+  {
+    "route": "/usage-specification-en",
+    "slug": "usage-specification-en",
+    "rootId": "151:10175"
+  },
+  {
+    "route": "/consistency",
+    "slug": "consistency",
+    "rootId": "35:9342"
+  },
+  {
+    "route": "/consistency-en",
+    "slug": "consistency-en",
+    "rootId": "151:17637"
+  },
+  {
+    "route": "/update-log",
+    "slug": "update-log",
+    "rootId": "60:9700"
+  },
+  {
+    "route": "/update-log-en",
+    "slug": "update-log-en",
+    "rootId": "151:19855"
+  }
+]

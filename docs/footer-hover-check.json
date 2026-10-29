@@ -1,0 +1,37 @@
+{
+  "checkedAt": "2026-10-28",
+  "chinese": {
+    "samples": 60,
+    "hoverHeld": true,
+    "opacities": [
+      "1"
+    ],
+    "parentYRange": [
+      876,
+      876
+    ],
+    "float": "matrix(1, 0, 0, 1, 0, -2)"
+  },
+  "english": {
+    "samples": 40,
+    "hoverHeld": true,
+    "opacities": [
+      "1"
+    ],
+    "parentYRange": [
+      370,
+      370
+    ],
+    "float": "matrix(1, 0, 0, 1, 0, -2)"
+  },
+  "feedback": {
+    "hover": true,
+    "opacity": "1",
+    "float": "matrix(1, 0, 0, 1, 0, -2)"
+  },
+  "rapidHover": {
+    "samples": 36,
+    "minOpacity": 1,
+    "maxOpacity": 1
+  }
+}

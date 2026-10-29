@@ -1,0 +1,466 @@
+[
+  {
+    "route": "/usage-specification",
+    "slug": "usage-specification",
+    "size": "desktop",
+    "textEqual": true,
+    "heightEqual": true,
+    "referenceHeight": 800,
+    "localHeight": 800,
+    "viewport": [
+      1280,
+      720
+    ],
+    "referenceViewport": [
+      1280,
+      720
+    ],
+    "linksEqual": true,
+    "overflow": false,
+    "visibleImagesLoaded": true,
+    "videos": []
+  },
+  {
+    "route": "/consistency",
+    "slug": "consistency",
+    "size": "desktop",
+    "textEqual": true,
+    "heightEqual": true,
+    "referenceHeight": 800,
+    "localHeight": 800,
+    "viewport": [
+      1280,
+      720
+    ],
+    "referenceViewport": [
+      1280,
+      720
+    ],
+    "linksEqual": true,
+    "overflow": false,
+    "visibleImagesLoaded": true,
+    "videos": [
+      {
+        "duration": 50.786667,
+        "ready": 4,
+        "src": "http://localhost:5173/_videos/v1/7f5e8ef185ed6db4b14c3b5e3d7a3512c3035bdf.mp4"
+      },
+      {
+        "duration": 18.7,
+        "ready": 4,
+        "src": "http://localhost:5173/_videos/v1/4beffa88c72ec27b3da31a86653ce974b571359a.mp4"
+      }
+    ]
+  },
+  {
+    "route": "/consistency-en",
+    "slug": "consistency-en",
+    "size": "desktop",
+    "textEqual": true,
+    "heightEqual": true,
+    "referenceHeight": 800,
+    "localHeight": 800,
+    "viewport": [
+      1280,
+      720
+    ],
+    "referenceViewport": [
+      1280,
+      720
+    ],
+    "linksEqual": true,
+    "overflow": false,
+    "visibleImagesLoaded": true,
+    "videos": [
+      {
+        "duration": 50.786667,
+        "ready": 4,
+        "src": "http://localhost:5173/_videos/v1/7f5e8ef185ed6db4b14c3b5e3d7a3512c3035bdf.mp4"
+      }
+    ]
+  },
+  {
+    "route": "/update-log",
+    "slug": "update-log",
+    "size": "desktop",
+    "textEqual": true,
+    "heightEqual": true,
+    "referenceHeight": 800,
+    "localHeight": 800,
+    "viewport": [
+      1280,
+      720
+    ],
+    "referenceViewport": [
+      1280,
+      720
+    ],
+    "linksEqual": true,
+    "overflow": false,
+    "visibleImagesLoaded": true,
+    "videos": []
+  },
+  {
+    "route": "/update-log-en",
+    "slug": "update-log-en",
+    "size": "desktop",
+    "textEqual": true,
+    "heightEqual": true,
+    "referenceHeight": 800,
+    "localHeight": 800,
+    "viewport": [
+      1280,
+      720
+    ],
+    "referenceViewport": [
+      1280,
+      720
+    ],
+    "linksEqual": true,
+    "overflow": false,
+    "visibleImagesLoaded": true,
+    "videos": []
+  },
+  {
+    "route": "/home-en",
+    "slug": "home-en",
+    "size": "desktop",
+    "textEqual": true,
+    "heightEqual": true,
+    "referenceHeight": 7368,
+    "localHeight": 7368,
+    "viewport": [
+      1280,
+      720
+    ],
+    "referenceViewport": [
+      1280,
+      720
+    ],
+    "linksEqual": true,
+    "overflow": false,
+    "visibleImagesLoaded": true,
+    "referenceImagesLoaded": true,
+    "videos": []
+  },
+  {
+    "route": "/user-guide",
+    "slug": "user-guide",
+    "size": "desktop",
+    "textEqual": true,
+    "heightEqual": true,
+    "referenceHeight": 800,
+    "localHeight": 800,
+    "viewport": [
+      1280,
+      720
+    ],
+    "referenceViewport": [
+      1280,
+      720
+    ],
+    "linksEqual": true,
+    "overflow": false,
+    "visibleImagesLoaded": true,
+    "referenceImagesLoaded": true,
+    "videos": []
+  },
+  {
+    "route": "/user-guide-en",
+    "slug": "user-guide-en",
+    "size": "desktop",
+    "textEqual": true,
+    "heightEqual": true,
+    "referenceHeight": 800,
+    "localHeight": 800,
+    "viewport": [
+      1280,
+      720
+    ],
+    "referenceViewport": [
+      1280,
+      720
+    ],
+    "linksEqual": true,
+    "overflow": false,
+    "visibleImagesLoaded": true,
+    "referenceImagesLoaded": true,
+    "videos": []
+  },
+  {
+    "route": "/usage-specification-en",
+    "slug": "usage-specification-en",
+    "size": "desktop",
+    "textEqual": true,
+    "heightEqual": true,
+    "referenceHeight": 800,
+    "localHeight": 800,
+    "viewport": [
+      1280,
+      720
+    ],
+    "referenceViewport": [
+      1280,
+      720
+    ],
+    "linksEqual": true,
+    "overflow": false,
+    "visibleImagesLoaded": true,
+    "referenceImagesLoaded": true,
+    "videos": []
+  },
+  {
+    "route": "/",
+    "slug": "home",
+    "size": "mobile",
+    "textEqual": true,
+    "heightEqual": true,
+    "referenceHeight": 6636,
+    "localHeight": 6636,
+    "viewport": [
+      375,
+      812
+    ],
+    "referenceViewport": [
+      375,
+      812
+    ],
+    "linksEqual": true,
+    "overflow": false,
+    "visibleImagesLoaded": true,
+    "referenceImagesLoaded": true,
+    "videos": []
+  },
+  {
+    "route": "/home-en",
+    "slug": "home-en",
+    "size": "mobile",
+    "textEqual": true,
+    "heightEqual": true,
+    "referenceHeight": 7788,
+    "localHeight": 7788,
+    "viewport": [
+      375,
+      812
+    ],
+    "referenceViewport": [
+      375,
+      812
+    ],
+    "linksEqual": true,
+    "overflow": false,
+    "visibleImagesLoaded": true,
+    "referenceImagesLoaded": true,
+    "videos": []
+  },
+  {
+    "route": "/user-guide",
+    "slug": "user-guide",
+    "size": "mobile",
+    "textEqual": true,
+    "heightEqual": true,
+    "referenceHeight": 812,
+    "localHeight": 812,
+    "viewport": [
+      375,
+      812
+    ],
+    "referenceViewport": [
+      375,
+      812
+    ],
+    "linksEqual": true,
+    "overflow": false,
+    "visibleImagesLoaded": true,
+    "referenceImagesLoaded": true,
+    "videos": []
+  },
+  {
+    "route": "/user-guide-en",
+    "slug": "user-guide-en",
+    "size": "mobile",
+    "textEqual": true,
+    "heightEqual": true,
+    "referenceHeight": 812,
+    "localHeight": 812,
+    "viewport": [
+      375,
+      812
+    ],
+    "referenceViewport": [
+      375,
+      812
+    ],
+    "linksEqual": true,
+    "overflow": false,
+    "visibleImagesLoaded": true,
+    "referenceImagesLoaded": true,
+    "videos": []
+  },
+  {
+    "route": "/usage-specification",
+    "slug": "usage-specification",
+    "size": "mobile",
+    "textEqual": true,
+    "heightEqual": true,
+    "referenceHeight": 812,
+    "localHeight": 812,
+    "viewport": [
+      375,
+      812
+    ],
+    "referenceViewport": [
+      375,
+      812
+    ],
+    "linksEqual": true,
+    "overflow": false,
+    "visibleImagesLoaded": true,
+    "referenceImagesLoaded": true,
+    "videos": []
+  },
+  {
+    "route": "/",
+    "slug": "home",
+    "size": "desktop",
+    "textEqual": true,
+    "heightEqual": true,
+    "referenceHeight": 7284,
+    "localHeight": 7284,
+    "viewport": [
+      1280,
+      720
+    ],
+    "referenceViewport": [
+      1280,
+      720
+    ],
+    "linksEqual": true,
+    "overflow": false,
+    "visibleImagesLoaded": true,
+    "referenceImagesLoaded": true,
+    "videos": []
+  },
+  {
+    "route": "/usage-specification-en",
+    "slug": "usage-specification-en",
+    "size": "mobile",
+    "textEqual": true,
+    "heightEqual": true,
+    "linksEqual": true,
+    "referenceHeight": 812,
+    "localHeight": 812,
+    "viewport": [
+      375,
+      812
+    ],
+    "referenceViewport": [
+      375,
+      812
+    ],
+    "overflow": false,
+    "visibleImagesLoaded": true,
+    "referenceImagesLoaded": true,
+    "videos": []
+  },
+  {
+    "route": "/consistency",
+    "slug": "consistency",
+    "size": "mobile",
+    "textEqual": true,
+    "heightEqual": true,
+    "linksEqual": true,
+    "referenceHeight": 812,
+    "localHeight": 812,
+    "viewport": [
+      375,
+      812
+    ],
+    "referenceViewport": [
+      375,
+      812
+    ],
+    "overflow": false,
+    "visibleImagesLoaded": true,
+    "referenceImagesLoaded": true,
+    "videos": [
+      {
+        "duration": 50.786667,
+        "ready": 4,
+        "src": "http://localhost:5173/_videos/v1/7f5e8ef185ed6db4b14c3b5e3d7a3512c3035bdf.mp4"
+      }
+    ]
+  },
+  {
+    "route": "/consistency-en",
+    "slug": "consistency-en",
+    "size": "mobile",
+    "textEqual": true,
+    "heightEqual": true,
+    "linksEqual": true,
+    "referenceHeight": 812,
+    "localHeight": 812,
+    "viewport": [
+      375,
+      812
+    ],
+    "referenceViewport": [
+      375,
+      812
+    ],
+    "overflow": false,
+    "visibleImagesLoaded": true,
+    "referenceImagesLoaded": true,
+    "videos": [
+      {
+        "duration": 50.786667,
+        "ready": 4,
+        "src": "http://localhost:5173/_videos/v1/7f5e8ef185ed6db4b14c3b5e3d7a3512c3035bdf.mp4"
+      }
+    ]
+  },
+  {
+    "route": "/update-log",
+    "slug": "update-log",
+    "size": "mobile",
+    "textEqual": true,
+    "heightEqual": true,
+    "linksEqual": true,
+    "referenceHeight": 812,
+    "localHeight": 812,
+    "viewport": [
+      375,
+      812
+    ],
+    "referenceViewport": [
+      375,
+      812
+    ],
+    "overflow": false,
+    "visibleImagesLoaded": true,
+    "referenceImagesLoaded": true,
+    "videos": []
+  },
+  {
+    "route": "/update-log-en",
+    "slug": "update-log-en",
+    "size": "mobile",
+    "textEqual": true,
+    "heightEqual": true,
+    "linksEqual": true,
+    "referenceHeight": 812,
+    "localHeight": 812,
+    "viewport": [
+      375,
+      812
+    ],
+    "referenceViewport": [
+      375,
+      812
+    ],
+    "overflow": false,
+    "visibleImagesLoaded": true,
+    "referenceImagesLoaded": true,
+    "videos": []
+  }
+]

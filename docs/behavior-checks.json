@@ -1,0 +1,19 @@
+{
+  "directoryTargetY": 88,
+  "mobileMenuOpened": true,
+  "mobileMenuNavigation": "/user-guide-en",
+  "localeSwitch": "/user-guide",
+  "lightboxOpened": true,
+  "lightboxEscapeClosed": true,
+  "dragDelta": [
+    50,
+    30
+  ],
+  "video": {
+    "duration": 50.786667,
+    "paused": false,
+    "ready": 4,
+    "source": "http://localhost:5173/_videos/v1/7f5e8ef185ed6db4b14c3b5e3d7a3512c3035bdf.mp4",
+    "time": 14.336886
+  }
+}

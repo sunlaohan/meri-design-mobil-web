@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" height="39" overflow="visible" preserveAspectRatio="none" style="display: block;" viewBox="0 0 59.5 39" width="59.5">
+<g id="Frame 514779734">
+<path d="M27 37V2.34713C27 1.85829 27.3534 1.4411 27.8356 1.36073L28.8356 1.19407C29.4451 1.09248 30 1.56252 30 2.18046V37C30 37.5523 29.5523 38 29 38H28C27.4477 38 27 37.5523 27 37Z" fill="var(--fill-0, #E8ECF0)" id="Vector 2193"/>
+<path d="M0 38.5H59.5" id="Vector 2192" stroke="var(--stroke-0, #1B2129)"/>
+<path d="M29.8936 0.751953C30.2052 0.684203 30.5 0.922279 30.5 1.24121V38C30.5 38.2761 30.2761 38.5 30 38.5H9C8.72386 38.5 8.5 38.2761 8.5 38V5.80566C8.50014 5.57065 8.66393 5.36741 8.89355 5.31738L29.8936 0.751953Z" fill="var(--fill-0, white)" id="Rectangle 40861" stroke="var(--stroke-0, #1B2129)"/>
+<path d="M31.1211 11.7959L49.1211 16.2959C49.3437 16.3515 49.5 16.5518 49.5 16.7812V38C49.5 38.2761 49.2761 38.5 49 38.5H31C30.7239 38.5 30.5 38.2761 30.5 38V12.2812C30.5 11.956 30.8056 11.7171 31.1211 11.7959Z" fill="var(--fill-0, white)" id="Rectangle 40862" stroke="var(--stroke-0, #1B2129)"/>
+<path d="M12 10V32" id="Vector 2200" stroke="var(--stroke-0, #1B2129)" stroke-dasharray="2 2"/>
+<path d="M46 20L46 35" id="Vector 2201" stroke="var(--stroke-0, #1B2129)" stroke-dasharray="2 2"/>
+<path d="M8 35H18.0455L21 38H8V35Z" fill="var(--fill-0, #246FE5)" id="Rectangle 40869"/>
+<path d="M39 11C39 10.4477 38.5523 10 38 10H36C35.4477 10 35 10.4477 35 11V12.2192C35 12.6781 35.3123 13.0781 35.7575 13.1894L37.7575 13.6894C38.3886 13.8472 39 13.3698 39 12.7192V11Z" fill="var(--fill-0, #1B2129)" id="Rectangle 40870"/>
+<circle cx="46.523" cy="3.52281" fill="var(--fill-0, #246FE5)" id="Ellipse 375" r="2.94172" transform="rotate(12.8637 46.523 3.52281)"/>
+<circle cx="46" cy="4" id="Ellipse 2833" r="2.75" stroke="var(--stroke-0, #1B2129)" stroke-width="0.5"/>
+</g>
+</svg>
