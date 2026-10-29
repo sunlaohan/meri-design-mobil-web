@@ -49,4 +49,11 @@ npm run preview   # 查看已有构建产物
 
 `dist/` 是完整静态网站，可放到支持静态目录的 Nginx、Netlify、Cloudflare Pages 等服务。保留所有文件，以及每个路由的 `index.html`。Node 本地服务支持视频 Range 请求，部署服务也应支持。默认保留原站禁止搜索收录的设置。
 
-当前工程仅在本地运行，线上域名和原站未做变更。
+2026 年 10 月 29 日已在 Netlify 团队 `sunshifu` 下创建并部署 `meri-design-mobil`：
+
+- 站点：<https://meri-design-mobil.netlify.app>
+- 管理后台：<https://app.netlify.com/projects/meri-design-mobil>
+- 本地关联：`.netlify/state.json`；构建配置：`netlify.toml`。
+- 部署验证记录：`docs/netlify-deployment.json`。
+
+项目继承团队的私有可见性默认设置；公开访问需在 Netlify 后台点击 **Make public**，或在 **Project configuration > General > Visitor access > Project visibility** 中选择 **Public** 并保存。
